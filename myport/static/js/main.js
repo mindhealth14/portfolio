@@ -25,7 +25,7 @@ function portList(){
     var wrapper = document.querySelector('.port-list');
     wrapper.innerHTML = "";
 
-    var url = 'http://localhost:8000/portapi/port/port-list/'
+    var url = 'http://172.105.190.111:8000/portapi/port/port-list/'
 
     fetch(url)
     .then(response => response.json())
@@ -99,7 +99,7 @@ var csrftoken = getCookie('csrftoken');
 
 // To populate the category select field. 
 
-fetch('http://localhost:8000/portapi/port/categories/')
+fetch('http://172.105.190.111:8000/portapi/port/categories/')
 .then((response) => response.json())
 .then((categories)=>{
     const categorySelect = document.querySelector('#id_category'); // Update with your actual field ID
@@ -142,9 +142,9 @@ portForm.addEventListener('submit', function(e) {
     e.preventDefault();
     var formData = new FormData(portForm);
 
-    var url = 'http://localhost:8000/portapi/port/port-create/';
+    var url = 'http://172.105.190.111:8000/portapi/port/port-create/';
     if (activeItems != null) {
-        var url = `http://localhost:8000/portapi/port/port-update/${activeItems.id}/`
+        var url = `http://172.105.190.111:8000/portapi/port/port-update/${activeItems.id}/`
         activeItems = null
     }
 
@@ -190,7 +190,7 @@ function updatePort(item){
 }
 
 function deleteItems(item){
-    var url = `http://localhost:8000/portapi/port/port-delete/${item.id}`;
+    var url = `http://172.105.190.111:8000/portapi/port/port-delete/${item.id}`;
     var options = {
         method: 'DELETE',
         headers: {
