@@ -113,7 +113,7 @@ var activeItem = null;
 function buildList(){
     var wrapper = document.querySelector('.list-wrapper');
     wrapper.innerHTML = '';
-    var url = 'http://localhost:8000/api/post/post-list/'
+    var url = 'http://172.105.190.111:8000/api/post/post-list/'
     
     fetch(url)
     .then(response => response.json())
@@ -183,9 +183,9 @@ postForm.addEventListener('submit', function(e){
     e.preventDefault();
     console.log('Form submission triggered');
 
-    var url = 'http://localhost:8000/api/post/post-create/';
+    var url = 'http://172.105.190.111:8000/api/post/post-create/';
     if (activeItem != null){
-        var url = `http://localhost:8000/api/post/post-update/${activeItem.id}/`
+        var url = `http://172.105.190.111:8000/api/post/post-update/${activeItem.id}/`
         activeItem = null
     }
 
@@ -262,7 +262,7 @@ function updatePost(item){
 
 
 function deleteItem(item){
-    var url = `http://localhost:8000/api/post/post-delete/${item.id}/`
+    var url = `http://172.105.190.111:8000/api/post/post-delete/${item.id}/`
     var options = {
         method: 'DELETE',
         headers: {
