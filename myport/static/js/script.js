@@ -193,8 +193,14 @@ postForm.addEventListener('submit', function(e){
 
     var formData = new FormData(postForm);
 
+
+
+
     fetch(url, {
         method: 'POST',
+        headers: {
+            'X-CSRFToken': csrftoken,
+        },
         body: formData
     })
     .then(function(response) {
