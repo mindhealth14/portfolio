@@ -1,0 +1,75 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+
+
+{% block title %}
+    
+{% endblock title %}
+
+
+
+
+{% block content %}
+
+{% if request.user.is_authenticated %}
+<div class="d-flex flex-row-reverse">
+  <div><p><b>Logged in user: </b>{{ request.user }}</p></div>
+</div>
+<hr>
+   <div class="row">
+      <div class="col-md-3">
+
+          <div class="card" style="width: 18rem;">
+              <div class="card-header">
+                Featured
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item"  onclick="openPostModal()">Add Post</li>
+                <li class="list-group-item"><a href="{% url 'dash:dashboard-admin-portfolio' %}">View Portfolio </a></li>
+              </ul>
+            </div>
+
+
+      </div>
+      <div class="col-md-9 px-5">
+          
+              <div class="list-wrapper">
+
+              </div>
+         
+      </div>
+  
+   </div>
+
+   {% include 'dash/modal.html' %}
+
+   {% else %}
+
+   <div class="col-md-6">
+    <h1>Login</h1>
+    <hr>
+    
+    <div class="w-full">
+   
+      <form action="{% url 'login' %}" method="post">
+        {% csrf_token %}
+        <label for="username">Username</label>
+        <p><input class="form-control" type="text" id="username" name="username"></p>
+        <label for="password">Password</label>
+        <p><input class="form-control" type="password" id="password" name="password"></p>
+        <p class="d-grid"><button type="submit" class="btn btn-color mt-2">Login</button></p>
+      </form>
+     </div>
+  
+  
+  </div>
+
+  <p> This page for authorize users only </p>
+  <p> To register for an admin login send an email from the contact form </p>
+  <p> <a href="http://localhost:8000/contact/">Click here for contact</a> </p>
+   
+{% endif %}
+
+{% endblock content %}
+
+    

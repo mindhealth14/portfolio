@@ -1,0 +1,31 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+
+
+{% block content %}
+<div class="row">
+    <div class="col-md-3">
+        <div class="card" style="width: 18rem;">
+            <div class="card-header">
+              Featured
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item"><a href="{% url 'dash:dashboard-admin' %}">View Post</a></li>
+              <li class="list-group-item" id="open-port-form">Post Portfolio</li>
+            </ul>
+          </div>
+
+    </div>
+
+    <div class="col-md-9 px-5">
+        <div class="port-list">
+
+        </div>
+
+    </div>
+
+
+</div>
+     {% include 'dash/modal.html' %}
+{% endblock content %}
+    

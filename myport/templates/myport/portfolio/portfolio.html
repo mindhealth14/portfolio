@@ -1,0 +1,74 @@
+{% extends 'myport/base.html' %}
+{% load static %} 
+
+{% block title %}
+    My Portfolio Projects 
+{% endblock title %}
+    
+
+{% block content %}
+ <div class="row">
+    <div class="col-md-3 mt-5">
+          <h3>Categories</h3>
+            <ul>
+            
+                <li {% if not categories %}class="selected"{% endif %}>
+                   <a href="{% url 'myport:portfolio' %}">All</a>
+                </li>
+
+            
+                {% for c in categories %}
+                 <li {% if category.slug == c.slug %}class="selected"{% endif %}>
+                     <a href="{{ c.get_absolute_url }}"> {{ c.name }}</a>
+                 </li>
+                
+                {% endfor %}     
+            </ul>
+    </div>
+    <div class="col-md-9 mt-5 "> 
+              
+                <h2>{% if category %} {{ category.name }} {% else %}Peter Omoruyi Portfolio {% endif %}</h2>
+             <div class="row row-cols-2 row-cols-md-3 g-2 g-md-3 card-box mt-5">
+
+                    {% for project in projects %}
+                <div class="col ">
+                 
+                    <div class="card p-3">
+                      <a class="img-control" href="{{ project.get_absolute_url }}">
+                        <img src="{% if project.image %} {{ project.image.url }} {% else %} {% static 'img/no_image.png' %} {% endif %}" class="card-img-top" alt="...">
+  
+                      </a>
+                      
+                        <div class="card-body">
+                        <h5 class="card-title">{{ project.title }}</h5>
+                        <p class="card-text"> </p>
+                        <a href="{{ project.image_url }}" class="btn btn-color">Visit website</a>
+                      </div>
+                     </div>
+                  </div>
+                
+                    {% endfor %}
+                      
+                
+
+             </div>
+    </div>
+
+<!-- end of row -->
+ </div>
+
+{% endblock content %}
+    
+
+
+
+<div class="col-md-3"> <div class="card" style="width: 18rem;">
+    <div class="card-header">
+      Projects Category
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">An item</li>
+      <li class="list-group-item">A second item</li>
+      <li class="list-group-item">A third item</li>
+    </ul>
+  </div></div>

@@ -1,0 +1,66 @@
+{% load static %}
+
+<dialog id="post-admin-modal"  data-post-modal>
+    <!-- Content of the modal dialog goes here -->
+    <div class="d-flex justify-content-md-between" > 
+         <h3 class="flex-grow-1 st" style="margin-left: 15px;">Certificate Post </h3><span class="close-post-modal"> &#x2715;</span></div>
+    
+    <hr>
+    <!-- js-post-text is added to the form class wigdet at form.py -->
+
+   <div class="w-full" id="form-wrapper">
+   
+    <form id="postForm" enctype="multipart/form-data">
+      <label for="title">Title:</label>
+      <p><input class="form-control" type="text" id="title" name="title"></p>
+      <label for="slug">Slug:</label>
+      <p><input class="form-control" type="text" id="slug" name="slug"></p>
+      <p><textarea id="description" name="description" rows="3" class="form-control"></textarea></p>
+      <label for="embed-code">Embed Code:</label>
+      <p><input type="text" id="embed_code" name="embed_code" class="form-control" > </p>
+      <label for="image">Image</label>
+      <p><input class="form-control" type="file" id="image" name="image"></p>
+      <p class="d-grid"><button type="submit" class="btn btn-color mt-2">Submit</button></p>
+    </form>
+   </div>
+    
+</dialog>
+
+<!-- Close button modal here  -->
+
+
+<dialog id="port-admin-modal"  data-port-modal>
+  <!-- Content of the modal dialog goes here -->
+  <div class="d-flex justify-content-md-between" > 
+       <h3 class="flex-grow-1 st" style="margin-left:15px">Create New Portfolio & Update </h3><span class="close-port-modal"> &#x2715;</span></div>
+  
+  <hr>
+  <!-- js-post-text is added to the form class wigdet at form.py -->
+
+ <div class="w-full" id="form-wrapper">
+ 
+  <form id="portForm" enctype="multipart/form-data">
+    <label for="id_category">Category:</label>
+    <p><select class="form-control" id="id_category" name="category">
+      <!-- Populate options dynamically via JavaScript -->
+  </select></p>
+    <label for="title">Title:</label>
+    <p><input class="form-control" type="text" id="titles" name="title"></p>
+    <label for="slug">Slug:</label>
+    <p><input class="form-control" type="text" id="slugs" name="slug"></p>
+    <p><textarea id="descriptions" name="description" rows="3" class="form-control"></textarea></p>
+    <label for="embed-code">Embed Code:</label>
+    <p><input type="text" id="embed_codes" name="embed_code" class="form-control" > </p>
+    <label for="image">Image</label>
+    <p><input class="form-control" type="file" id="images" name="image"></p>
+    <label for="image-url">Image Url</label>
+    <p><input type="text" id="image_url" name="image_url" class="form-control" > </p>
+    <label for="git">Git Source Code:</label>
+    <p><input type="text" id="git_source_code" name="git_source_code" class="form-control" > </p>
+    <p class="d-grid"><button type="submit" class="btn btn-color mt-2">Submit</button></p>
+  </form>
+ </div>
+  
+</dialog>
+
+<!-- Close button modal here  -->

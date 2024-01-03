@@ -1,0 +1,312 @@
+
+@import url(//fonts.googleapis.com/css?family=Ubuntu);
+
+body {
+    margin:0;
+    padding:0;
+    font-family:helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5 , h6 {
+    font-family: 'Ubuntu', sans-serif; font-weight:normal;
+}
+
+a {
+    text-decoration:none;
+    color:#5993bb;
+}
+
+a:hover {
+    color:#77b6e2;
+    text-decoration:none;
+}
+
+.logos{
+    font-size:xx-large;
+    font-weight: bolder;
+    font-family: serif;
+    color: #5993bb;
+    
+}
+
+ ul{
+    margin:0;
+    padding:0;
+}
+
+ul li {
+    margin:0;
+    list-style:none;
+    padding:10px 14px;
+}
+
+ ul li a {
+    display:block;
+}
+
+ ul li.selected {
+    background:#5993bb;
+    border-radius:4px;
+}
+
+ ul li.selected a {
+    color:#fff;
+}
+
+.btn-color{
+    color:#fff;
+    background:#5993bb;
+}
+
+.my-border{
+    border-bottom: 2px solid #b28c1c;
+    background-color: #c1d5e3;
+}
+
+
+.bg-nav{
+    background-color: #e7ebee;
+    
+}
+
+.bg-search{
+    background-color: #c1d5e3;
+    margin-left: 15em;
+}
+
+.card-box {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #b28c1c;
+}
+
+.img-control{
+   
+    padding: 2px;
+    height: 250px;
+    overflow: hidden;
+}
+
+
+dialog {
+    z-index: 10;
+    width: 550px;
+    height: 320px;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#closeDialog {
+    margin-top: 10px;
+}
+
+
+/* Customize the dialog backdrop background color and opacity */
+dialog::backdrop {
+    background-color: hsl(200, 100%, 50%, 0.5);/* Change the background color and opacity */
+    z-index: 1050; /* Change the z-index value */
+}
+
+img.floating-profile{
+    position: relative;
+    width: 250px;
+    float: right ; 
+    margin: 15px; 
+    border: 1px solid black; 
+    box-shadow: 0 0 5px black;
+}
+.prof-name{
+    color: white;
+    font-style: serif;
+    font-weight: bolder;
+    position: absolute;
+    right: 40em;
+    bottom: 46em;
+
+}
+
+.img-cert-bg{
+   
+    width: 100%;
+    background-color: #5993bb;
+   
+}
+
+
+.img-cert{
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 375px) {
+
+    img-cert {
+
+        width: 100%;
+        height: auto;
+    }
+
+}
+
+.add-border{
+    border: 2px solid;
+}
+
+
+.iframe-container{
+
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /*Aspect ration 9/16*100 */
+    border-radius: 2%;
+
+
+}
+
+.iframe-container iframe {
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.contact-banner {
+    position: relative;
+    background-image: linear-gradient(180deg,
+    rgba(0,0,0,0.3) 0%,
+    rgba(0,0,0,0.8) 100%),  url('../img/contact-banner.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact-form-box{
+    position: absolute;
+    left: 25%;
+    top: 80%;
+    background-color:#c1d5e3;
+    width: 50%;
+    height: 500px%;
+    border-radius: 2%;
+    box-shadow: 0 5px black;
+    padding: 15px;
+
+    animation-name: slideMe;
+    animation-duration: 2s;
+    animation-iteration-count: inherit;
+
+}
+
+@keyframes slideMe{
+    0% {
+        top: 30%;
+    }
+}
+
+hr{
+  
+    background-color: black;
+}
+
+.contact-banner h2{
+    position: absolute;
+    left: 29%;
+    top: 60%;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.contact-banner h4{
+    position: absolute;
+    left: 38%;
+    top: 50%;
+    font-weight: bolder;
+    color: #5993bb;
+}
+
+/* The payout page */
+
+.main {
+    padding: 10px;
+    background-color: rgb(222, 222, 222);
+    min-height: 500px;
+}
+
+
+
+
+/* 
+portfolio page  Detail page */
+.port-side-nav{
+    
+    display: none;
+    top: 0;
+    border: 1px solid #5993bb;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    right: 50%;
+    background-color: #fff;
+    box-shadow: 0 5px black;
+    padding: 10px;
+    
+
+    
+}
+
+.nav-img-control {
+    width: 30px; /* Set a specific width */
+    height: auto; /* Automatically adjust height to maintain aspect ratio */
+    /* Add any other styles as needed */
+}
+
+
+
+
+/* On post admin page */
+
+#form-wrapper{
+    height: 100%;
+    overflow:auto;
+   
+}
+
+ #post-admin-modal{
+    z-index: 10;
+    width: 550px;
+    height: 600px;
+    overflow: hidden;
+}
+
+
+#port-admin-modal{
+    z-index: 10;
+    width: 550px;
+    height: 54rem;
+    overflow: hidden;
+}
+
+#login-wrapper{
+    height: 100%;
+    overflow: auto;
+}
+
+#login-admin-modal{
+    z-index: 10;
+    width: 550px;
+    height: 21rem;
+    overflow: hidden;
+}
+
+ 
+
+
+

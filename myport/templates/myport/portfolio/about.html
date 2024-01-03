@@ -1,0 +1,53 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+
+
+
+{% block content %}
+<div class="row">
+    <div class="col-md-9"> 
+        <h1 class="mt-3">About</h1>
+        <div class="about">
+           
+                <img class="floating-profile" src="{% static 'img/IMG_5581.jpeg' %}">
+                <p class="prof-name mt-3">{{ name }}</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi suscipit sint porro expedita natus, asperiores voluptatum eligendi hic ducimus fuga cupiditate neque impedit nam, est unde, eos eum. Velit, ullam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi suscipit sint porro expedita natus, asperiores voluptatum eligendi hic ducimus fuga cupiditate neque impedit nam, est unde, eos eum. Velit, ullam?Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi suscipit sint porro expedita natus, asperiores voluptatum eligendi hic ducimus fuga cupiditate neque impedit nam, est unde, eos eum. Velit, ullam? </p>
+                <p>
+                    What is Lorem Ipsum?
+                    
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                    </p>
+        </div>
+
+        <h1 class="mt-5">My Learning Philosophy</h1>
+       
+    </div>
+    <div class="col-md-3">
+        <div class="mt-5"> 
+            <hr>
+            <h4>Contact {{ name }}</h4>
+             <p>Email: peter.omo@etintech.com</p>
+             <p><a href="#"</p>
+        </div>
+
+        <div class="mt-5"> 
+            <hr>
+            <h4>Useful links </h4>
+           
+        </div>
+
+        <div class="mt-5"> 
+            <hr>
+            <h4>Most recent post</h4>
+             <p></p>
+        </div>
+        
+    </div>
+
+
+
+</div>
+
+    
+{% endblock content %}
+    

@@ -1,0 +1,90 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+
+{% block title %}
+    {{ portfolio.title }}
+{% endblock title %}
+    
+
+
+
+{% block content %}
+<div class="row mt-3"> 
+   
+   <div class="col-md-2">
+           <div class="row">
+                <div class="col">
+                  <p  onmouseover="portSideNav();" style="color: #5993bb;" ><i class="fa-solid fa-list fa-lg btn-icon"></i></p> 
+                </div>
+           </div>
+
+           <div class="row">
+                    <div class="port-side-nav"> 
+                           <div class="row">
+                                <div class="col d-flex">
+                                  <a onclick="closeNav();" id="nav-close" href="#"> <i class="fa-solid fa-list fa-lg btn-icon"></i> </a>
+                                  <span class="mx-3"> <a href="{% url 'myport:about' %}"> <img class="rounded-circle img-fluid nav-img-control" src="{% static 'img/IMG_5577.jpeg' %}" > </a> </span>
+                                  <br>
+                                   <span> <h5 style="color: #5993bb;"> <a href="{% url 'myport:about' %}">Peter O</a> </h5></span>
+                              </p>
+                           </div>
+
+                           <div class="row">
+                                <div class="col mt-3">
+                                  <a href="{% url 'feed:index' %}"><p><i class="fa-solid fa-house"></i>  <span class="mx-3"> Home </span> </p></a>
+                                  <p><a href="{% url 'myport:portfolio' %}"><i class="fa-brands fa-r-project"></i><span class="mx-3">Portfolio </span></a> </p>
+                                  <p><a href="{% url 'myport:contact' %}"><i class="fa-solid fa-address-card"></i> <span class="mx-3"> Contact </span></a></p>
+                                
+                                </div>
+                           </div>
+                       
+                    </div>
+
+
+            </div>
+          
+       </div>
+
+   </div>
+
+ </div>
+
+
+
+
+<div class="row mt-2">
+        <div class="col-md-2">
+         
+        </div>
+         
+       <div class="col-md-4">
+
+            <h1>Video here</h1>   
+
+      </div>
+
+      <div class="col-md-6">
+              <h1>{{ portfolio.title }}</h1>
+              <p> {{ portfolio.description }} </p>
+                    <hr>
+              <h3>Source code </h3>
+              <p><b>Github:</b> <a href="{{ portfolio.git_source_code }}" target="_blank"> {{ portfolio.git_source_code }}</a> </p>
+              <hr>
+              <h3>Project Url </h3>
+              <p><b>Website:</b> <a href="{{ project.image_url }}" target="_blank"> {{ portfolio.image_url }} </a>  </p>
+              
+      </div>
+        
+
+ </div>
+
+
+
+{% endblock content %}
+
+
+
+
+
+              
+              
