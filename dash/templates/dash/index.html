@@ -12,8 +12,16 @@
 {% block content %}
 
 {% if request.user.is_authenticated %}
-<div class="d-flex flex-row-reverse">
-  <div><p><b>Logged in user: </b>{{ request.user }}</p></div>
+<div class="row">
+  <div class="col-md-3">
+    <p>Logged in user: <b>{{ request.user }}</b></p>
+  </div>
+
+  <div class="col-md-9">
+    <div class="d-flex flex-row-reverse">
+      <div ><p style="padding-right: 35px;"><b>Etintech</b></p></div>
+    </div>
+  </div>
 </div>
 <hr>
    <div class="row">
