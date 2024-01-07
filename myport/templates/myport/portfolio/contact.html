@@ -1,0 +1,99 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block title %}
+   Contact Etintech
+{% endblock title %}
+   
+
+
+
+{% block content %}
+<div class="row contact-banner" style="background-color: white;">
+    <h2>Contact us for more information</h2>
+    <h4>Send us a message</h4>
+    
+ <div class="contact-form-box"> 
+     
+     {% if sent %}
+      <h1>Email sent successfully </h1>
+       <p>Thank you <strong>{{ form.cleaned_data.full_name }}</strong></p>
+      <p>Your message was successfully sent to our admin.</p>
+      {% else %}
+      <form method="post">
+         {{form|crispy}}
+         {% csrf_token %}
+         <input class="btn-color btn" type="submit" value="Send Email">
+        </form>
+      
+     {% endif %}
+
+    
+      
+ </div>
+</div>
+
+<div class="row contact">
+
+</div>
+
+<div class="row" style="background-color: white;">
+
+   <div class="col-md-6">
+
+      <h2>Google Map</h2>
+
+      <div id="map" style="height: 400px; width: 100%;"> {% include 'myport/portfolio/map_template.html' %}</div>
+
+
+      
+      
+       </div>
+   <div class="col-md-6">
+      <div class="row">
+          <div class="col-md-2 text-center"> <i class="fa-solid fa-location-dot"></i></div>
+          <div class="col-md-8"> 
+            <h2> My Office </h2>
+             <h4>Victoria</h4>
+              <p>23 verda way, <br>
+               Werribee, Victoria, 3030
+              </p>
+             <h4> Queensland</h4>
+              <p> 104/90 First Avenue,<br>
+                  Railway Estate, Qld, 4810</p>
+         
+          </div>
+
+          <div class="row">
+            <div class="col-md-2 text-center"> <i class="fa-solid fa-envelope"></i></div>
+            <div class="col-md-8"> 
+               <h2>Email</h2>
+               <p>Use the web form above </p>
+
+               
+             </div>
+
+          </div>
+
+          <div class="row">
+            <div class="col-md-2 text-center"><i class="fa-solid fa-phone-volume"></i></div>
+            <div class="col-md-8">
+               <h2> Phone Number</h2>
+             <p>If you need help using this site, send us an email or call: 0432400717 </p>
+            </div>
+          </div>
+
+         
+
+      </div>
+
+
+
+
+   </div>
+
+
+</div>
+{% endblock content %}
+    

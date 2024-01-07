@@ -1,0 +1,129 @@
+{% extends 'myport/base.html' %}
+{% load static %}
+
+
+{% block title %}
+    Home Page 
+{% endblock title %}
+
+
+
+{% block content %}
+ 
+    <div class="row">
+         <div class="col-md-2"> 
+            
+            <div class="mt-5">
+                <div class="card">
+                    
+                    <ul class="list-group list-group-flush">
+                        {% for name in names %}
+                      <li class="list-group-item">
+                        <a href="{% url 'myport:about' %}" style="color: purple;">I am, {{ name.first_name }}  {{ name.last_name }}.  </a>
+                      
+                        <strong style="color: purple;">The legendary king of Django </strong>
+                    </li>
+                      {% endfor %}
+                     
+                    </ul>
+                  </div>
+            </div>
+
+            <hr class="mt-5">
+          
+            <div>
+                <h3> Certificates </h3>
+                <hr>
+                <ul>
+                {% for post in posts %}
+                 
+                 {% if post.image  %}
+                 <li> <a href="{{ post.get_absolute_url }}">{{ post.title }}</a> </li>   
+                 {% endif %}
+                   
+                    {% endfor %}
+                </ul>
+                 
+                <hr>
+                
+                <h3> Videos Content </h3>
+                <hr>
+                <ul> 
+                {% for post in posts %}
+                 
+                 {% if post.embed_code  %}
+                 <li> <a href="{{ post.get_absolute_url }}"> {{ post.title }} </a></li>   
+                 {% endif %}
+                   
+                    {% endfor %}
+                </ul>
+                    
+               
+                    
+            </div>
+
+         </div>
+         <div class="col-md-7">
+            
+            {% for post in posts %}
+                
+                {% if post.embed_code %}
+
+                <div class="iframe-container mt-5">
+                    <a href="{{ post.get_absolute_url }}">
+                        <p> {{ post.embed_code | safe }}  </p><!-- | safe is use to render HTML  -->
+                         </a>
+                   
+                </div>
+                <a href="{{ post.get_absolute_url }}">
+                    <h2 class="mt-3">{{ post.title }} </h2>
+                     </a>
+                
+                  {% else %}
+                    <div class="img-cert-bg mt-5">
+                        <a  href="{{ post.get_absolute_url }}">
+                            <img class="img-cert" src="{% if post.image %} {{ post.image.url }} {% else %} {% static 'img/no_image.png' %} {% endif %}"  alt="...">
+        
+                          </a>
+                    </div>
+                    <a href="{{ post.get_absolute_url }}"> 
+                        <h2 class="mt-3">{{ post.title }} </h2>
+                    </a>
+                    
+                {% endif %}       
+         
+            {% endfor %}
+                
+         </div>
+         <div class="col-md-3">
+            <div class="mt-5"> 
+                <hr>
+                 
+                 {% for name in names %}
+                 <a href="{% url 'myport:contact' %}"><h4>Contact {{ name.first_name }} {{ name.last_name }}</h4></a>
+                 <p><a href="mailto:{{ name.email }}">Email: {{ name.email }}</a>
+                 </p>
+                    
+                 {% endfor %}
+                 
+                 <p><a href="{% url 'myport:portfolio' %}"> View Portfolio</a></p>
+            </div>
+    
+            <div class="mt-5"> 
+                <hr>
+                <h4>Useful links </h4>
+               
+            </div>
+    
+            <div class="mt-5"> 
+                <hr>
+                <h4>Most recent post</h4>
+                 <p></p>
+            </div>
+   
+         </div>
+    </div>
+   
+{% endblock content %}
+    
+    

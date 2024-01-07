@@ -1,0 +1,23 @@
+{% load static %}
+<dialog  data-modal id="login-admin-modal">
+    <!-- Content of the modal dialog goes here -->
+    <div class="d-flex justify-content-md-between" >  <h1 class="flex-grow-1 st" style="margin-left: 3em;">Admin Login </h1><span class="close-modal"> &#x2715;</span></div>
+    
+    <hr>
+    <!-- js-post-text is added to the form class wigdet at form.py -->
+
+   <div class="w-full" id="login-wrapper">
+   
+    <form  action="{% url 'login' %}" method="post">
+      {% csrf_token %}
+      <label for="username">Username</label>
+      <p><input class="form-control" type="text" id="username" name="username"></p>
+      <label for="password">Password</label>
+      <p><input class="form-control" type="password" id="password" name="password"></p>
+      <p class="d-grid"><button type="submit" class="btn btn-color mt-2">Login</button></p>
+    </form>
+   </div>
+    
+</dialog>
+
+<!-- Close button modal here  -->
