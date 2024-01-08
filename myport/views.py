@@ -47,15 +47,13 @@ def contact(request):
         'hello': hello, 
     })
     
-<<<<<<< HEAD
+
 def tutorial(request):
     message = 'We are coming soon'
     return render(request, 'myport/portfolio/tutorial.html', {
         'message': message, 
     })
 
-=======
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 def portfolio_list(request, category_slug=None):
     category = None
     categories = Category.objects.all()
@@ -79,16 +77,11 @@ def portfolio_detail(request, id, slug):
     return render(request, 'myport/portfolio/detail.html', {
         'portfolio': portfolio
     })
+    
 
-
-
-<<<<<<< HEAD
-
-
-
-=======
 def map_view(request):
     return render(request, 'map_template.html')
+
 
 
 def load_more_data(request):
@@ -97,6 +90,6 @@ def load_more_data(request):
     data = Project.objects.all()[offset:offset+limit]
     # Render a template with the fetched data
     return render(request, 'portfolio.html', {'data': data})
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
+
     
     
