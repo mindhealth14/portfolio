@@ -21,9 +21,6 @@ class ProjectSerializer(serializers.ModelSerializer):
         validated_data['slug'] = slug
         
         return super(ProjectSerializer, self).create(validated_data)
-<<<<<<< HEAD
-=======
-    
     
     
     def update(self, instance, validated_data):
@@ -43,10 +40,9 @@ class ProjectSerializer(serializers.ModelSerializer):
         
         instance.save()
         return instance
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
-        
-        
 
+        
+    
 
 # Serializer for the Category model
 class CategorySerializer(serializers.ModelSerializer):
