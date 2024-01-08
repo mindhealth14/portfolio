@@ -26,10 +26,7 @@ urlpatterns = [
     path('api/', include("api.urls")),
     path('portapi/', include("portapi.urls")),
     path('dashboard/', include("dash.urls", namespace='dash')),
-<<<<<<< HEAD
-=======
     path('tutorials/', include("tutorial.urls", namespace='tutorial')),
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     path('__debug__/', include("debug_toolbar.urls")),
 ]
 if settings.DEBUG:
