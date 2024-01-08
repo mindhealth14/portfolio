@@ -1,10 +1,7 @@
 from django.contrib import admin
 from .models import Project, Category
-<<<<<<< HEAD
-=======
-from django.contrib.gis.db import models
 
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
+from django.contrib.gis.db import models
 
 # Register your models here.
 
@@ -19,13 +16,5 @@ class ProjectAdmin(admin.ModelAdmin):
     list_display = ['title', 'slug']
     prepopulated_fields = {'slug': ('title',)}
     
-<<<<<<< HEAD
-    
-    
 
-    
-=======
-  
-
->>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
