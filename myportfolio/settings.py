@@ -37,17 +37,12 @@ ALLOWED_HOSTS = ['172.105.190.111']
 # Application definition
 
 INSTALLED_APPS = [
-
-# Default Applications 
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    
-
     'myport',
     'api',
     'rest_framework',
@@ -58,24 +53,18 @@ INSTALLED_APPS = [
     'corsheaders',
     'portapi',
     'debug_toolbar',
-
-## Site Applications 
     'myport',
     'tutorial', 
     'api',
     'feed',
     'dash',
     'portapi',
-    
-## Python Modules
     'rest_framework',
     'crispy_forms',
     "crispy_bootstrap5",
     'corsheaders',
     'debug_toolbar',
     'mapwidgets',
-
-
 ]
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = "bootstrap5"
@@ -190,7 +179,6 @@ CORS_ALLOWED_ORIGINS = [
 
 INTERNAL_IPS = [
     '127.0.0.1',
-
 ]
 
 
