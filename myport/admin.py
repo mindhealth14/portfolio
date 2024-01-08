@@ -1,7 +1,6 @@
 from django.contrib import admin
 from .models import Project, Category
 
-from django.contrib.gis.db import models
 
 # Register your models here.
 
