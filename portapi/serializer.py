@@ -21,6 +21,29 @@ class ProjectSerializer(serializers.ModelSerializer):
         validated_data['slug'] = slug
         
         return super(ProjectSerializer, self).create(validated_data)
+<<<<<<< HEAD
+=======
+    
+    
+    
+    def update(self, instance, validated_data):
+        # Update the instance with the new validated data
+        instance.title = validated_data.get('title', instance.title)
+        instance.description = validated_data.get('description', instance.description)
+        instance.website_url = validated_data.get('website_url', instance.website_url)
+        instance.github= validated_data.get('github', instance.github)
+        
+        
+        # Update other fields similarly
+        
+        # Regenerate the slug if the title has changed
+        new_title = validated_data.get('title')
+        if new_title and new_title != instance.title:
+            instance.slug = slugify(new_title)
+        
+        instance.save()
+        return instance
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         
         
 

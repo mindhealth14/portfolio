@@ -7,7 +7,11 @@
     
 
 {% block content %}
+<<<<<<< HEAD
  <div class="row">
+=======
+ <div class="row section_1">
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     <div class="col-md-3 mt-5">
           <h3>Categories</h3>
             <ul>
@@ -26,9 +30,21 @@
             </ul>
     </div>
     <div class="col-md-9 mt-5 "> 
+<<<<<<< HEAD
               
                 <h2>{% if category %} {{ category.name }} {% else %}Peter Omoruyi Portfolio {% endif %}</h2>
              <div class="row row-cols-2 row-cols-md-3 g-2 g-md-3 card-box mt-5">
+=======
+              <div class="row">
+                <div class="cate-box">
+                  <h2>{% if category %}  {{ category.name }} {% else %}Peter Omoruyi Portfolio {% endif %}</h2>
+
+                </div>
+              </div>
+
+             <div class="row row-cols-2 row-cols-md-3 g-2 g-md-3 card-box mt-5">
+              
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
                     {% for project in projects %}
                 <div class="col ">
@@ -40,6 +56,7 @@
                       </a>
                       
                         <div class="card-body">
+<<<<<<< HEAD
                         <h5 class="card-title">{{ project.title }}</h5>
                         <p class="card-text"> </p>
                         <a href="{{ project.image_url }}" class="btn btn-color">Visit website</a>
@@ -52,6 +69,24 @@
                 
 
              </div>
+=======
+                        <h5 class="card-title"><a href="{{ project.get_absolute_url }}">
+                          {% with words=course.title|wordcount %}
+                          {{ project.title|truncatewords:3 }}
+                          {% endwith %}
+                        
+                        </a></h5>
+                        <p class="card-text"> </p>
+                        <a href="{{ project.website_url }}" target="_blank" class="btn btn-color">Visit website</a>
+                      </div>
+                     </div>
+                  </div>
+              
+                    {% endfor %}
+             </div>
+
+             <div class="text-center my-5"> <button class="btn btn-color" id="load-more-btn">Load More</button> </div>
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     </div>
 
 <!-- end of row -->

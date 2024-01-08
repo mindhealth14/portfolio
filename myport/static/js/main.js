@@ -3,11 +3,19 @@ document.addEventListener('DOMContentLoaded', function(){
     var closePortModal = document.querySelector('.close-port-modal');
 
 
+<<<<<<< HEAD
     var portModal = document.querySelector("[data-port-modal]")
+=======
+    var portModal = document.querySelector("[data-port-modal]");
+
+
+   if (portBtn !=null ){
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     portBtn.addEventListener('click', ()=> {
         portModal.showModal()
         
     })
+<<<<<<< HEAD
 
     closePortModal.addEventListener('click', ()=>{
         portModal.close()
@@ -16,6 +24,16 @@ document.addEventListener('DOMContentLoaded', function(){
 
 fdfd
 
+=======
+   }
+
+    closePortModal.addEventListener('click', ()=>{
+        portModal.close()
+        // Reset the form fields
+        document.getElementById('portForm').reset();
+    })
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 // END OF DOMCONTENTLOADER
 })
 
@@ -23,9 +41,15 @@ var activeItems = null;
 
 function portList(){
     var wrapper = document.querySelector('.port-list');
+<<<<<<< HEAD
     wrapper.innerHTML = "";
 
     var url = 'http://172.105.190.111:8000/portapi/port/port-list/'
+=======
+    wrapper.innerHTML = ''
+  
+    var url = 'http://localhost:8000/portapi/port/port-list/'
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
     fetch(url)
     .then(response => response.json())
@@ -43,8 +67,16 @@ function portList(){
             </div>
           </div><hr>
             `
+<<<<<<< HEAD
 
             wrapper.innerHTML += item;
+=======
+           
+                wrapper.innerHTML += item;
+      
+
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         }
 
         for (i in list){
@@ -99,7 +131,11 @@ var csrftoken = getCookie('csrftoken');
 
 // To populate the category select field. 
 
+<<<<<<< HEAD
 fetch('http://172.105.190.111:8000/portapi/port/categories/')
+=======
+fetch('http://localhost:8000/portapi/port/categories/')
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 .then((response) => response.json())
 .then((categories)=>{
     const categorySelect = document.querySelector('#id_category'); // Update with your actual field ID
@@ -142,10 +178,19 @@ portForm.addEventListener('submit', function(e) {
     e.preventDefault();
     var formData = new FormData(portForm);
 
+<<<<<<< HEAD
     var url = 'http://172.105.190.111:8000/portapi/port/port-create/';
     if (activeItems != null) {
         var url = `http://172.105.190.111:8000/portapi/port/port-update/${activeItems.id}/`
         activeItems = null
+=======
+    var url = 'http://localhost:8000/portapi/port/port-create/';
+
+    
+    if (activeItems != null) {
+        var url = `http://localhost:8000/portapi/port/port-update/${activeItems.id}/`
+        activeItems = null;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     }
 
     fetch(url, {
@@ -159,8 +204,14 @@ portForm.addEventListener('submit', function(e) {
     .then(function(html){
         var portModal = document.querySelector("[data-port-modal]")
             portModal.close()
+<<<<<<< HEAD
 
           return portList()
+=======
+            portList()
+          // Reset the form fields
+          document.getElementById('portForm').reset();
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     })
     .catch(function(error) {
         console.log('Error', error);
@@ -170,7 +221,10 @@ portForm.addEventListener('submit', function(e) {
 
 function updatePort(item){
     activeItems = item;
+<<<<<<< HEAD
     console.log(activeItems)
+=======
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     const portModal = document.querySelector("[data-port-modal]");
     portModal.showModal();
 
@@ -180,6 +234,7 @@ function updatePort(item){
          document.getElementById('slugs').value = activeItems.slug || '';
          document.getElementById('descriptions').value = activeItems.description || '';
          document.getElementById('embed_codes').value = activeItems.embed_code || '';
+<<<<<<< HEAD
          document.getElementById('images').value = activeItems.image || '';
          document.getElementById('image_url').value = activeItems.image_url || '';
          document.getElementById('git_source_code').value = activeItems.git_source_code || '';
@@ -191,6 +246,18 @@ function updatePort(item){
 
 function deleteItems(item){
     var url = `http://172.105.190.111:8000/portapi/port/port-delete/${item.id}`;
+=======
+         document.getElementById('image_url').value = activeItems.image_url || '';
+         document.getElementById('website_url').value = activeItems.website_url || '';
+         document.getElementById('github').value = activeItems.github || '';
+
+         // Set other form fields accordingly
+}
+hgh
+
+function deleteItems(item){
+    var url = `http://localhost:8000/portapi/port/port-delete/${item.id}`;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     var options = {
         method: 'DELETE',
         headers: {

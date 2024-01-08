@@ -4,10 +4,20 @@ const loginBtn = document.getElementById('login-modal');
 const loginModal = document.querySelector("[data-modal]");
 const closeModal = document.querySelector('.close-modal');
 
+<<<<<<< HEAD
 //  open modal 
 loginBtn.addEventListener('click', ()=>{
      loginModal.showModal()
 })
+=======
+
+if (loginBtn != null) {
+    //  open modal 
+loginBtn.addEventListener('click', ()=>{
+    loginModal.showModal()
+})
+}
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
  
 //  close modal 
 closeModal.addEventListener('click', () =>{
@@ -29,6 +39,16 @@ loginModal.addEventListener("click", function(e) {
  })
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+ 
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 // End of Domcontentloaded
 })
 
@@ -63,7 +83,10 @@ closePostModal.addEventListener('click', () =>{
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 function portSideNav(){
 
     const portSideBar = document.querySelector('.port-side-nav');
@@ -88,6 +111,24 @@ function closeNav(){
       
          }
 }
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 //  admin page
 function getCookie(name) {
     var cookieValue = null;
@@ -110,11 +151,21 @@ var csrftoken = getCookie('csrftoken');
 
 var activeItem = null;
 
+<<<<<<< HEAD
 function buildList(){
     var wrapper = document.querySelector('.list-wrapper');
     wrapper.innerHTML = '';
     var url = 'http://172.105.190.111:8000/api/post/post-list/'
     
+=======
+
+function buildList(){
+    var wrapper = document.querySelector('.list-wrapper');
+    wrapper.innerHTML = ''
+
+   
+    var url = 'http://localhost:8000/api/post/post-list/'
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     fetch(url)
     .then(response => response.json())
     .then((data) => {
@@ -135,8 +186,13 @@ function buildList(){
           </div><hr>
             `
 
+<<<<<<< HEAD
             wrapper.innerHTML += item;
 
+=======
+                wrapper.innerHTML += item;
+             
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         }
         //  at the end of the first loop do another loop to solve the problem of single click
 
@@ -183,9 +239,15 @@ postForm.addEventListener('submit', function(e){
     e.preventDefault();
     console.log('Form submission triggered');
 
+<<<<<<< HEAD
     var url = 'http://172.105.190.111:8000/api/post/post-create/';
     if (activeItem != null){
         var url = `http://172.105.190.111:8000/api/post/post-update/${activeItem.id}/`
+=======
+    var url = 'http://localhost:8000/api/post/post-create/';
+    if (activeItem != null){
+        var url = `http://localhost:8000/api/post/post-update/${activeItem.id}/`
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         activeItem = null
     }
 
@@ -193,6 +255,7 @@ postForm.addEventListener('submit', function(e){
 
     var formData = new FormData(postForm);
 
+<<<<<<< HEAD
 
 
 
@@ -201,6 +264,10 @@ postForm.addEventListener('submit', function(e){
         headers: {
             'X-CSRFToken': csrftoken,
         },
+=======
+    fetch(url, {
+        method: 'POST',
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         body: formData
     })
     .then(function(response) {
@@ -268,7 +335,11 @@ function updatePost(item){
 
 
 function deleteItem(item){
+<<<<<<< HEAD
     var url = `http://172.105.190.111:8000/api/post/post-delete/${item.id}/`
+=======
+    var url = `http://localhost:8000/api/post/post-delete/${item.id}/`
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     var options = {
         method: 'DELETE',
         headers: {
@@ -282,3 +353,25 @@ function deleteItem(item){
     buildList()
    })
 }
+<<<<<<< HEAD
+=======
+
+
+ 
+
+function initMap() {
+    const location = { lat: -19.27829600021189, lng: 146.81108351278175 };
+    const map = new google.maps.Map(document.getElementById("map"), {
+        center: location,
+        zoom: 15,
+    });
+    const marker = new google.maps.Marker({
+        position: location,
+        map: map,
+        title: "Townsville, Qld, Australia",
+    });
+}
+
+// Call the function to initialize the map
+initMap();
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9

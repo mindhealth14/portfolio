@@ -1,1 +1,12 @@
 Https://cdnjs.com/libraries/font-awesome
+<<<<<<< HEAD
+=======
+
+django-crispy-forms
+
+crispy_bootstrap5
+corsheaders
+pip install django-debug-toolbar
+Pillow
+brew install gdal
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9

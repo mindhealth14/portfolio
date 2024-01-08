@@ -74,6 +74,7 @@ ul li {
     margin-left: 15em;
 }
 
+<<<<<<< HEAD
 .card-box {
   border: 1px solid;
   padding: 10px;
@@ -83,10 +84,39 @@ ul li {
 .img-control{
    
     padding: 2px;
+=======
+
+.card-box {
+ 
+  padding: 10px;
+  box-shadow: 3px 5px #c1d5e3;
+  background-color: #fafafa;
+}
+
+.cate-box{
+    padding: 30px;
+    box-shadow: 3px 5px #c1d5e3;
+    background-color: #fafafa;
+    height: 100px;
+   
+    color: #5993bb;
+    width: 100%;
+}
+
+.img-control{
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     height: 250px;
     overflow: hidden;
 }
 
+<<<<<<< HEAD
+=======
+.img-control > img {
+    height: 100%;
+}
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
 dialog {
     z-index: 10;
@@ -117,13 +147,26 @@ img.floating-profile{
     border: 1px solid black; 
     box-shadow: 0 0 5px black;
 }
+<<<<<<< HEAD
+=======
+/* 
+About Page */
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 .prof-name{
     color: white;
     font-style: serif;
     font-weight: bolder;
     position: absolute;
+<<<<<<< HEAD
     right: 40em;
     bottom: 46em;
+=======
+    right: 6em;
+    bottom: 57.5em;
+    border: 2px solid black;
+    background-color: gray;
+   padding: 5px;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
 }
 
@@ -186,6 +229,10 @@ img.floating-profile{
     height: 40vh;
     background-repeat: no-repeat;
     background-size: cover;
+<<<<<<< HEAD
+=======
+    margin-top: -10px;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 }
 
 .contact-form-box{
@@ -194,7 +241,11 @@ img.floating-profile{
     top: 80%;
     background-color:#c1d5e3;
     width: 50%;
+<<<<<<< HEAD
     height: 500px%;
+=======
+    height: 650px;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     border-radius: 2%;
     box-shadow: 0 5px black;
     padding: 15px;
@@ -236,8 +287,21 @@ hr{
 
 .main {
     padding: 10px;
+<<<<<<< HEAD
     background-color: rgb(222, 222, 222);
     min-height: 500px;
+=======
+    background-color: rgb(239, 239, 239);
+    min-height: 500px;
+    width: 55%;
+    
+}
+
+.contact{
+    background-image: url('../img/bg_img-1.png');
+    height: 650px;
+    background-color: white;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 }
 
 
@@ -257,6 +321,10 @@ portfolio page  Detail page */
     background-color: #fff;
     box-shadow: 0 5px black;
     padding: 10px;
+<<<<<<< HEAD
+=======
+    z-index: 1;
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     
 
     

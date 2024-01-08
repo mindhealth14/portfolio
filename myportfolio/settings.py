@@ -11,6 +11,10 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
 from pathlib import Path
+<<<<<<< HEAD
+=======
+import os
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -33,6 +37,10 @@ ALLOWED_HOSTS = ['172.105.190.111']
 # Application definition
 
 INSTALLED_APPS = [
+<<<<<<< HEAD
+=======
+# Default Applications 
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -40,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     
+<<<<<<< HEAD
     'myport',
     'api',
     'rest_framework',
@@ -50,6 +59,23 @@ INSTALLED_APPS = [
     'corsheaders',
     'portapi',
     'debug_toolbar',
+=======
+## Site Applications 
+    'myport',
+    'tutorial', 
+    'api',
+    'feed',
+    'dash',
+    'portapi',
+    
+## Python Modules
+    'rest_framework',
+    'crispy_forms',
+    "crispy_bootstrap5",
+    'corsheaders',
+    'debug_toolbar',
+    'mapwidgets',
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 
 ]
 
@@ -165,4 +191,9 @@ CORS_ALLOWED_ORIGINS = [
 
 INTERNAL_IPS = [
     '127.0.0.1',
+<<<<<<< HEAD
 ]
+=======
+]
+
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9

@@ -10,7 +10,11 @@
 
 
 {% block content %}
+<<<<<<< HEAD
 <div class="row contact-banner">
+=======
+<div class="row contact-banner" style="background-color: white;">
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
     <h2>Contact us for more information</h2>
     <h4>Send us a message</h4>
     
@@ -24,7 +28,11 @@
       <form method="post">
          {{form|crispy}}
          {% csrf_token %}
+<<<<<<< HEAD
          <input type="submit" value="Send Email">
+=======
+         <input class="btn-color btn" type="submit" value="Send Email">
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
         </form>
       
      {% endif %}
@@ -33,5 +41,70 @@
       
  </div>
 </div>
+<<<<<<< HEAD
+=======
+
+<div class="row contact">
+
+</div>
+
+<div class="row" style="background-color: white;">
+
+   <div class="col-md-6">
+
+      <h2>Google Map</h2>
+
+      <div id="map" style="height: 400px; width: 100%;"> {% include 'myport/portfolio/map_template.html' %}</div>
+
+
+      
+      
+       </div>
+   <div class="col-md-6">
+      <div class="row">
+          <div class="col-md-2 text-center"> <i class="fa-solid fa-location-dot"></i></div>
+          <div class="col-md-8"> 
+            <h2> My Office </h2>
+             <h4>Victoria</h4>
+              <p>23 verda way, <br>
+               Werribee, Victoria, 3030
+              </p>
+             <h4> Queensland</h4>
+              <p> 104/90 First Avenue,<br>
+                  Railway Estate, Qld, 4810</p>
+         
+          </div>
+
+          <div class="row">
+            <div class="col-md-2 text-center"> <i class="fa-solid fa-envelope"></i></div>
+            <div class="col-md-8"> 
+               <h2>Email</h2>
+               <p>Use the web form above </p>
+
+               
+             </div>
+
+          </div>
+
+          <div class="row">
+            <div class="col-md-2 text-center"><i class="fa-solid fa-phone-volume"></i></div>
+            <div class="col-md-8">
+               <h2> Phone Number</h2>
+             <p>If you need help using this site, send us an email or call: 0432400717 </p>
+            </div>
+          </div>
+
+         
+
+      </div>
+
+
+
+
+   </div>
+
+
+</div>
+>>>>>>> 2619a3918320ef852ef3d49de35081a6e110ccb9
 {% endblock content %}
     

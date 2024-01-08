@@ -1,0 +1,1617 @@
+Watching for file changes with StatReloader
+[03/Jan/2024 01:55:09] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 01:55:09] "GET /static/css/style.css HTTP/1.1" 304 0
+[03/Jan/2024 01:55:09] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 01:55:09] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 01:55:09] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:09] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:18] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 01:55:18] "GET /static/img/contact-banner.jpg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:19] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 01:55:20] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 01:55:20] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:20] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:20] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:20] "GET /static/img/no_image.png HTTP/1.1" 304 0
+[03/Jan/2024 01:55:20] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:22] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 01:55:22] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 01:55:22] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 01:55:43] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 01:55:43] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 01:55:44] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 01:55:45] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 01:55:46] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 01:55:47] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 01:55:47] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 01:55:48] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 01:55:48] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 01:57:22] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 01:57:23] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 01:57:24] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 01:57:25] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 01:57:26] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 01:57:27] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 01:57:28] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 01:57:29] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 02:11:14] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 02:54:53] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 02:54:53] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 02:54:53] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 02:54:53] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 02:54:53] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+[03/Jan/2024 02:54:53] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 02:54:53] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 02:55:35] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 02:55:35] "GET /static/img/contact-banner.jpg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 02:55:35] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 02:55:36] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 02:55:37] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 02:55:38] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 02:55:38] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 02:55:38] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[03/Jan/2024 02:55:38] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 02:55:38] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 02:56:01] "POST /portapi/login HTTP/1.1" 200 11875
+[03/Jan/2024 02:56:06] "POST /portapi/login HTTP/1.1" 200 11875
+[03/Jan/2024 02:56:07] "POST /portapi/login HTTP/1.1" 200 11875
+[03/Jan/2024 02:56:07] "POST /portapi/login HTTP/1.1" 200 11875
+[03/Jan/2024 02:56:10] "POST /portapi/login HTTP/1.1" 200 11875
+[03/Jan/2024 02:56:26] "POST /portapi/login HTTP/1.1" 302 0
+[03/Jan/2024 02:56:27] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 02:56:33] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 02:56:35] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 02:56:41] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 02:56:42] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 02:59:04] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 02:59:27] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 02:59:29] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 02:59:32] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:01:19] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:01:23] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:01:25] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:27] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:28] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:29] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:29] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:30] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:30] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:31] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:32] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:33] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:01:35] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:01:40] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:01:42] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:01:42] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:01:54] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:01:54] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:01:55] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:02:01] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:02:45] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:02:45] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:02:46] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:02:51] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:02:52] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:02:52] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:02:53] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:02:57] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+[03/Jan/2024 03:02:59] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:02:59] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:21:56] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:21:56] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 03:21:56] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:21:56] "GET /static/js/main.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:21:56] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:22:03] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13662
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:22:03] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:22:06] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13485
+[03/Jan/2024 03:27:05] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:27:13] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:27:15] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:27:17] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:27:21] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:27:24] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:27:25] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:27:42] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:28:42] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:29:33] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:50:40] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:50:40] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:50:40] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 03:50:40] "GET /static/js/main.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:50:40] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:50:52] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:50:52] "GET /static/js/script.js HTTP/1.1" 200 7318
+[03/Jan/2024 03:50:52] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:50:52] "GET /static/js/main.js HTTP/1.1" 200 6094
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:50:53] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:50:53] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:50:53] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:50:53] "GET /static/js/main.js HTTP/1.1" 200 6094
+[03/Jan/2024 03:50:53] "GET /static/js/script.js HTTP/1.1" 200 7318
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:50:54] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:51:03] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:51:07] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:51:07] "GET /static/js/script.js HTTP/1.1" 200 7318
+[03/Jan/2024 03:51:07] "GET /static/js/main.js HTTP/1.1" 200 6094
+[03/Jan/2024 03:51:07] "GET /static/css/style.css HTTP/1.1" 200 4360
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:51:07] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:51:07] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:51:07] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:51:07] "GET /static/js/main.js HTTP/1.1" 200 6094
+[03/Jan/2024 03:51:07] "GET /static/js/script.js HTTP/1.1" 200 7318
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:51:08] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:51:27] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 10018
+[03/Jan/2024 03:51:27] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 03:51:27] "GET /static/js/script.js HTTP/1.1" 200 7318
+[03/Jan/2024 03:51:27] "GET /static/js/main.js HTTP/1.1" 200 6094
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 03:51:28] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 03:51:37] "POST /portapi/login HTTP/1.1" 302 0
+[03/Jan/2024 03:51:37] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:43] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:51:47] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:48] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:49] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:50] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:50] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:50] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:51] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:51:59] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 03:52:02] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 03:52:03] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:31] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:33] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:36] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:42] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:42] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:00:42] "GET /static/js/script.js HTTP/1.1" 200 7342
+[03/Jan/2024 04:00:42] "GET /static/js/main.js HTTP/1.1" 200 6094
+[03/Jan/2024 04:00:43] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:00:43] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:00:43] "GET /static/js/main.js HTTP/1.1" 200 6094
+[03/Jan/2024 04:00:43] "GET /static/js/script.js HTTP/1.1" 200 7342
+[03/Jan/2024 04:01:06] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:01:06] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:01:06] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:01:08] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:01:10] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:01:10] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:01:11] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:01:15] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:01:15] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:01:15] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:01:16] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:01:17] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:01:18] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:03:54] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:03:54] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:03:55] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:03:59] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:03:59] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:04:01] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:03] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:04:03] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:04:04] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:13] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:13] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:04:14] "GET /static/js/script.js HTTP/1.1" 200 7342
+[03/Jan/2024 04:04:14] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:04:14] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:04:14] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:04:21] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:04:21] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 04:04:21] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:04:22] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:22] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:04:22] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:04:24] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:04:24] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 04:04:24] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:04:26] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:26] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:04:26] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:04:29] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:04:29] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:04:29] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:04:29] "GET /static/js/script.js HTTP/1.1" 200 7342
+[03/Jan/2024 04:04:29] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:04:29] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:06:48] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:06:48] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:06:48] "GET /static/js/script.js HTTP/1.1" 200 7342
+[03/Jan/2024 04:06:48] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:06:48] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:06:48] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:06:58] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:06:58] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:07:01] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:07:01] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:07:01] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:07:03] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:07:03] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:07:04] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:07:04] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:07:04] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:07:06] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:07:06] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 04:07:06] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:07:06] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:07:07] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:07:07] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:07:08] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:07:08] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+Forbidden: /api/post/post-create/
+Forbidden: /api/post/post-create/
+[03/Jan/2024 04:07:21] "POST /api/post/post-create/ HTTP/1.1" 403 58
+Forbidden: /api/post/post-create/
+Forbidden: /api/post/post-create/
+[03/Jan/2024 04:07:25] "POST /api/post/post-create/ HTTP/1.1" 403 58
+Forbidden: /api/post/post-create/
+Forbidden: /api/post/post-create/
+[03/Jan/2024 04:08:35] "POST /api/post/post-create/ HTTP/1.1" 403 58
+Forbidden: /api/post/post-create/
+Forbidden: /api/post/post-create/
+[03/Jan/2024 04:08:40] "POST /api/post/post-create/ HTTP/1.1" 403 58
+Forbidden: /api/post/post-create/
+Forbidden: /api/post/post-create/
+[03/Jan/2024 04:14:22] "POST /api/post/post-create/ HTTP/1.1" 403 58
+[03/Jan/2024 04:14:27] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:14:27] "GET /static/js/script.js HTTP/1.1" 200 7413
+[03/Jan/2024 04:14:27] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:14:27] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:14:27] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 04:14:27] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 04:14:28] "GET /dashboard/dashboard-admin/ HTTP/1.1" 200 13825
+[03/Jan/2024 04:14:28] "GET /static/js/script.js HTTP/1.1" 200 7413
+[03/Jan/2024 04:14:28] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:14:28] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 04:14:29] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 04:14:29] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 04:15:07] "POST /api/post/post-create/ HTTP/1.1" 201 466
+[03/Jan/2024 04:15:07] "GET /api/post/post-list/ HTTP/1.1" 200 2650
+[03/Jan/2024 04:15:16] "DELETE /api/post/post-delete/13/ HTTP/1.1" 200 27
+[03/Jan/2024 04:15:16] "GET /api/post/post-list/ HTTP/1.1" 200 2183
+[03/Jan/2024 04:20:24] "GET /portapi/logout HTTP/1.1" 302 0
+[03/Jan/2024 04:20:24] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:20:24] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+[03/Jan/2024 04:20:24] "GET /static/js/script.js HTTP/1.1" 200 7413
+[03/Jan/2024 04:20:24] "GET /static/js/main.js HTTP/1.1" 200 6124
+[03/Jan/2024 04:20:25] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 04:20:25] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 04:20:34] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:20:34] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 04:20:34] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 04:20:36] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:20:36] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 04:20:36] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 04:20:36] "GET /static/img/no_image.png HTTP/1.1" 304 0
+[03/Jan/2024 04:20:36] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:20:36] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:20:37] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:20:51] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:20:57] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:21:00] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:03] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 04:21:03] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:21:03] "GET /static/img/contact-banner.jpg HTTP/1.1" 200 183437
+[03/Jan/2024 04:21:05] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:09] "GET /havard-university-projects/ HTTP/1.1" 200 13288
+[03/Jan/2024 04:21:15] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:16] "GET /udemy-projects/ HTTP/1.1" 200 11796
+[03/Jan/2024 04:21:18] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:19] "GET /havard-university-projects/ HTTP/1.1" 200 13288
+[03/Jan/2024 04:21:20] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:21] "GET /havard-university-projects/ HTTP/1.1" 200 13288
+[03/Jan/2024 04:21:23] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:24] "GET /udemy-projects/ HTTP/1.1" 200 11796
+[03/Jan/2024 04:21:25] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:26] "GET /havard-university-projects/ HTTP/1.1" 200 13288
+[03/Jan/2024 04:21:27] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:28] "GET /udemy-projects/ HTTP/1.1" 200 11796
+[03/Jan/2024 04:21:29] "GET /old-projects/ HTTP/1.1" 200 11813
+[03/Jan/2024 04:21:29] "GET /havard-university-projects/ HTTP/1.1" 200 13288
+[03/Jan/2024 04:21:49] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 04:21:49] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 04:21:50] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:21:51] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:52] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:21:52] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:21:53] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:21:53] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:54] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:21:55] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:55] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:21:56] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:21:57] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:21:57] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:21:58] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:21:58] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 04:21:59] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:22:00] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:22:01] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:22:02] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:22:09] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:22:10] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 04:22:10] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:22:11] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:22:11] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 04:22:12] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:22:13] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:22:13] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:22:58] "GET /dashboard/dashboard-admin-portfolio/ HTTP/1.1" 200 13737
+[03/Jan/2024 04:22:58] "GET /static/css/style.css HTTP/1.1" 304 0
+[03/Jan/2024 04:22:58] "GET /static/js/script.js HTTP/1.1" 200 7413
+[03/Jan/2024 04:22:58] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 04:22:58] "GET /portapi/port/port-list/ HTTP/1.1" 200 4284
+[03/Jan/2024 04:22:58] "GET /portapi/port/categories/ HTTP/1.1" 200 192
+[03/Jan/2024 04:23:00] "GET /portapi/logout HTTP/1.1" 302 0
+[03/Jan/2024 04:23:00] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:23:00] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+[03/Jan/2024 04:23:00] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+[03/Jan/2024 04:23:04] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:23:04] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:23:05] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 200 815239
+[03/Jan/2024 04:23:05] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:23:05] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:23:05] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[03/Jan/2024 04:23:05] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:23:05] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:23:06] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 04:23:11] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 04:23:12] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 04:23:12] "GET /static/img/contact-banner.jpg HTTP/1.1" 200 183437
+[03/Jan/2024 04:23:13] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 04:23:14] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 04:23:15] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:23:15] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 04:23:16] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 05:19:35] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 05:35:05] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03S\x15´\x8e\x19\x92÷ûHºßä\x02')
+[03/Jan/2024 05:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jan/2024 06:24:42] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 06:24:42] "GET /static/css/style.css HTTP/1.1" 304 0
+[03/Jan/2024 06:24:42] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 06:24:42] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 06:24:42] "GET /static/img/contact-banner.jpg HTTP/1.1" 200 183437
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 06:24:42] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 06:25:02] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 06:25:03] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 304 0
+[03/Jan/2024 06:25:03] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 06:25:03] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 06:26:57] "GET /? HTTP/1.1" 200 14997
+[03/Jan/2024 06:26:57] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 81920
+[03/Jan/2024 06:37:11] code 400, message Bad request version ('À\x14À')
+[03/Jan/2024 06:37:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jan/2024 06:37:11] code 400, message Bad request version ('À\x14À')
+[03/Jan/2024 06:37:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jan/2024 06:37:11] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 06:37:12] code 400, message Bad request version ('À\x14À')
+[03/Jan/2024 06:37:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[03/Jan/2024 06:42:40] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[03/Jan/2024 06:44:56] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 06:44:56] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 98304
+[03/Jan/2024 06:44:56] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 06:44:56] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 06:44:56] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 81920
+[03/Jan/2024 06:46:19] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 06:46:19] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 06:46:19] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 06:46:19] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 06:46:19] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[03/Jan/2024 06:46:19] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 06:46:19] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 06:46:38] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 06:46:38] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 06:47:15] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 06:53:25] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 06:55:03] "GET /contact/ HTTP/1.1" 200 11517
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 06:55:03] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 06:55:04] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 06:55:05] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 07:27:47] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 07:27:47] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 07:27:47] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 07:27:47] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 07:27:47] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+[03/Jan/2024 07:27:47] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 07:27:47] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 09:09:52] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 09:10:09] "GET /favicon.ico HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+Bad Request: /http:/api.ipify.org/
+[03/Jan/2024 09:10:12] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 61694
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+Bad Request: /www.shadowserver.org:443
+[03/Jan/2024 09:10:24] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 61897
+[03/Jan/2024 09:28:56] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Jan/2024 09:28:56] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Jan/2024 09:55:40,898] - Broken pipe from ('167.94.138.33', 60716)
+
+[03/Jan/2024 09:55:44] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 09:55:44,394] - Broken pipe from ('167.94.138.33', 44752)
+
+[03/Jan/2024 09:55:47] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 09:55:48] code 505, message Invalid HTTP version (2.0)
+[03/Jan/2024 09:55:48] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 09:55:50] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 10:09:17] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Jan/2024 10:09:17] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Jan/2024 10:28:52,866] - Broken pipe from ('172.104.210.105', 58017)
+
+[03/Jan/2024 10:28:53] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 10:28:53,641] - Broken pipe from ('172.104.210.105', 58018)
+
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[03/Jan/2024 10:45:09] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[03/Jan/2024 10:49:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Jan/2024 10:49:24] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Jan/2024 11:12:45,638] - Broken pipe from ('69.164.217.245', 57114)
+
+[03/Jan/2024 11:12:45] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 11:12:46,185] - Broken pipe from ('69.164.217.245', 57115)
+
+[03/Jan/2024 11:14:12] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00')
+[03/Jan/2024 11:14:12] "  à          " 400 -
+[03/Jan/2024 11:32:09] code 400, message Bad request version ('À\x14À')
+[03/Jan/2024 11:32:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: 'eg.bdtunnelproxy.xyz'. You may need to add 'eg.bdtunnelproxy.xyz' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'eg.bdtunnelproxy.xyz'. You may need to add 'eg.bdtunnelproxy.xyz' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[03/Jan/2024 11:37:46] "GET / HTTP/1.1" 400 61569
+[03/Jan/2024 15:54:42] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 16:04:00] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+[03/Jan/2024 16:04:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jan/2024 16:04:13] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 16:04:38] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[03/Jan/2024 16:04:40] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[03/Jan/2024 16:04:41] "GET /sitemap.xml HTTP/1.1" 404 4157
+[03/Jan/2024 16:15:31] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 20:41:50] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 20:41:50] "GET /static/js/main.js HTTP/1.1" 304 0
+[03/Jan/2024 20:41:50] "GET /static/css/style.css HTTP/1.1" 200 4360
+[03/Jan/2024 20:41:50] "GET /static/js/script.js HTTP/1.1" 304 0
+[03/Jan/2024 20:41:50] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+[03/Jan/2024 20:41:50] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 20:41:50] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 20:41:58] "GET /contact/ HTTP/1.1" 200 11517
+[03/Jan/2024 20:41:58] "GET /static/img/contact-banner.jpg HTTP/1.1" 304 0
+[03/Jan/2024 20:41:59] "GET /tutorial/ HTTP/1.1" 200 10034
+[03/Jan/2024 20:42:00] "GET /portfolio HTTP/1.1" 200 14785
+[03/Jan/2024 20:42:00] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 20:42:00] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 20:42:00] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[03/Jan/2024 20:42:00] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+[03/Jan/2024 20:42:00] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 200 232104
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[03/Jan/2024 20:42:00] "GET /favicon.ico HTTP/1.1" 404 4157
+[03/Jan/2024 20:42:00] "GET /about/ HTTP/1.1" 200 12178
+[03/Jan/2024 20:42:00] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 304 0
+[03/Jan/2024 20:42:01] "GET / HTTP/1.1" 200 14997
+Not Found: /.env
+Not Found: /.env
+[03/Jan/2024 20:48:13] "GET /.env HTTP/1.1" 404 4136
+[03/Jan/2024 22:51:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[03/Jan/2024 22:51:57] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Jan/2024 23:07:23] "GET / HTTP/1.1" 200 14997
+[03/Jan/2024 23:26:32] code 400, message Bad request version ('À\x14À')
+[03/Jan/2024 23:26:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Jan/2024 00:28:06] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 00:28:16] "GET /favicon.ico HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+Bad Request: /http:/api.ipify.org/
+[04/Jan/2024 00:28:21] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 61710
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+Bad Request: /www.shadowserver.org:443
+[04/Jan/2024 00:28:25] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 61913
+[04/Jan/2024 01:11:35] code 400, message Bad request syntax ('\x01\x01æ')
+[04/Jan/2024 01:11:35] "æ" 400 -
+[04/Jan/2024 01:16:17] "GET /contact/ HTTP/1.1" 200 11517
+[04/Jan/2024 01:16:17] "GET /static/js/script.js HTTP/1.1" 304 0
+[04/Jan/2024 01:16:17] "GET /static/css/style.css HTTP/1.1" 200 4360
+[04/Jan/2024 01:16:17] "GET /static/js/main.js HTTP/1.1" 304 0
+[04/Jan/2024 01:16:18] "GET /static/img/contact-banner.jpg HTTP/1.1" 200 183437
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 01:16:18] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 03:13:35] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jan/2024 03:13:35] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jan/2024 04:21:50] code 400, message Bad request syntax ('MGLNDD_172.105.190.111_8000')
+[04/Jan/2024 04:21:50] "MGLNDD_172.105.190.111_8000" 400 -
+[04/Jan/2024 04:28:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jan/2024 04:28:11] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jan/2024 05:24:53] "GET /portfolio HTTP/1.1" 200 14785
+[04/Jan/2024 05:24:53] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 200 232104
+[04/Jan/2024 05:24:53] "GET /static/css/style.css HTTP/1.1" 200 4360
+[04/Jan/2024 05:24:53] "GET /static/js/script.js HTTP/1.1" 304 0
+[04/Jan/2024 05:24:53] "GET /static/js/main.js HTTP/1.1" 304 0
+[04/Jan/2024 05:24:53] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[04/Jan/2024 05:24:54] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+[04/Jan/2024 05:24:54] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 200 232104
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 05:24:54] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 200 232104
+[04/Jan/2024 05:24:54] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 05:24:55] "GET /contact/ HTTP/1.1" 200 11517
+[04/Jan/2024 05:24:55] "GET /static/img/contact-banner.jpg HTTP/1.1" 200 183437
+[04/Jan/2024 05:24:56] "GET /about/ HTTP/1.1" 200 12178
+[04/Jan/2024 05:24:56] "GET /static/img/IMG_5581.jpeg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 05:24:56] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 05:30:25] "GET /about/ HTTP/1.1" 200 12178
+[04/Jan/2024 06:19:11] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 06:46:08] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 07:32:44] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 07:39:50] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 08:27:47] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jan/2024 08:27:47] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jan/2024 08:41:38] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jan/2024 08:41:38] "  /*à     Cookie: mstshash=Administr" 400 -
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /www.baidu.com:443
+Bad Request: /www.baidu.com:443
+[04/Jan/2024 09:26:55] "CONNECT www.baidu.com:443 HTTP/1.0" 400 61446
+[04/Jan/2024 09:57:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[04/Jan/2024 09:57:27] "  /*à     Cookie: mstshash=Administr" 400 -
+[04/Jan/2024 11:09:36,497] - Broken pipe from ('69.164.217.245', 49801)
+
+[04/Jan/2024 11:09:36] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 11:09:37,047] - Broken pipe from ('69.164.217.245', 49802)
+
+[04/Jan/2024 11:09:53] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 11:13:42,510] - Broken pipe from ('198.74.56.46', 39086)
+
+[04/Jan/2024 11:13:42] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 11:13:43,073] - Broken pipe from ('198.74.56.46', 39087)
+
+[04/Jan/2024 11:14:06] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 11:19:48] code 400, message Bad request version ('À\x14À')
+[04/Jan/2024 11:19:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Jan/2024 13:06:55] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 14:18:27,410] - Broken pipe from ('167.94.145.58', 42364)
+
+[04/Jan/2024 14:18:30] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 14:18:31,567] - Broken pipe from ('167.94.145.58', 54978)
+
+[04/Jan/2024 14:18:35] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 14:18:36] code 505, message Invalid HTTP version (2.0)
+[04/Jan/2024 14:18:36] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 14:18:36] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 16:27:28] code 400, message Bad request syntax ('\x01\x01æ')
+[04/Jan/2024 16:27:28] "æ" 400 -
+[04/Jan/2024 16:33:36] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+[04/Jan/2024 16:33:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[04/Jan/2024 16:33:48] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 16:34:10] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[04/Jan/2024 16:34:12] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[04/Jan/2024 16:34:12] "GET /sitemap.xml HTTP/1.1" 404 4157
+[04/Jan/2024 18:04:12] code 400, message Bad request syntax ('JDWP-Handshake')
+[04/Jan/2024 18:04:12] "JDWP-Handshake" 400 -
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[04/Jan/2024 19:23:21] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[04/Jan/2024 19:54:34] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 19:54:34] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 20:15:10] "GET /admin HTTP/1.1" 301 0
+[04/Jan/2024 20:15:10] "GET /admin/ HTTP/1.1" 302 0
+[04/Jan/2024 20:15:10] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2214
+[04/Jan/2024 20:15:10] "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+[04/Jan/2024 20:15:10] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+[04/Jan/2024 20:15:10] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+[04/Jan/2024 20:15:10] "GET /static/admin/css/login.css HTTP/1.1" 200 939
+[04/Jan/2024 20:15:10] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+[04/Jan/2024 20:15:10] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 20:15:10] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 20:15:10] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[04/Jan/2024 20:15:10] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[04/Jan/2024 20:15:22] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[04/Jan/2024 20:15:22] "GET /admin/ HTTP/1.1" 200 8076
+[04/Jan/2024 20:15:22] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+[04/Jan/2024 20:15:22] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[04/Jan/2024 20:15:22] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[04/Jan/2024 20:15:22] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[04/Jan/2024 20:15:26] "GET /admin/myport/category/ HTTP/1.1" 200 7885
+[04/Jan/2024 20:15:26] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[04/Jan/2024 20:15:26] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6874
+[04/Jan/2024 20:15:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3325
+[04/Jan/2024 20:15:26] "GET /static/admin/js/core.js HTTP/1.1" 200 5698
+[04/Jan/2024 20:15:26] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+[04/Jan/2024 20:15:26] "GET /static/admin/js/actions.js HTTP/1.1" 200 7867
+[04/Jan/2024 20:15:26] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[04/Jan/2024 20:15:26] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[04/Jan/2024 20:15:26] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+[04/Jan/2024 20:15:26] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+[04/Jan/2024 20:15:27] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[04/Jan/2024 20:15:27] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[04/Jan/2024 20:15:28] "GET /admin/myport/category/2/change/ HTTP/1.1" 200 7574
+[04/Jan/2024 20:15:28] "GET /static/admin/css/forms.css HTTP/1.1" 200 8804
+[04/Jan/2024 20:15:28] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[04/Jan/2024 20:15:28] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 492
+[04/Jan/2024 20:15:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3325
+[04/Jan/2024 20:15:28] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11097
+[04/Jan/2024 20:15:28] "GET /static/admin/img/tooltag-arrowright.svg HTTP/1.1" 200 280
+[04/Jan/2024 20:15:35] "POST /admin/myport/category/2/change/ HTTP/1.1" 302 0
+[04/Jan/2024 20:15:35] "GET /admin/myport/category/ HTTP/1.1" 200 8112
+[04/Jan/2024 20:15:35] "GET /admin/jsi18n/ HTTP/1.1" 200 3325
+[04/Jan/2024 20:15:35] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[04/Jan/2024 20:15:44] "GET /a HTTP/1.1" 301 0
+Not Found: /a/
+Not Found: /a/
+[04/Jan/2024 20:15:44] "GET /a/ HTTP/1.1" 404 3153
+[04/Jan/2024 20:15:49] "GET / HTTP/1.1" 200 15011
+[04/Jan/2024 20:15:49] "GET /static/css/style.css HTTP/1.1" 304 0
+[04/Jan/2024 20:15:49] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 200 224927
+[04/Jan/2024 20:15:49] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 200 191054
+[04/Jan/2024 20:15:49] "GET /static/js/script.js HTTP/1.1" 304 0
+[04/Jan/2024 20:15:49] "GET /static/js/main.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[04/Jan/2024 20:15:49] "GET /favicon.ico HTTP/1.1" 404 4157
+[04/Jan/2024 20:15:51] "GET /portapi/logout HTTP/1.1" 302 0
+[04/Jan/2024 20:15:51] "GET / HTTP/1.1" 200 14997
+[04/Jan/2024 20:16:01] "GET /portfolio HTTP/1.1" 200 14787
+[04/Jan/2024 20:16:01] "GET /static/img/no_image.png HTTP/1.1" 304 0
+[04/Jan/2024 20:16:01] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 304 0
+[04/Jan/2024 20:16:01] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 304 0
+[04/Jan/2024 20:16:01] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 304 0
+[04/Jan/2024 20:16:01] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 200 232104
+[04/Jan/2024 20:16:03] "GET /harvard-university-projects/ HTTP/1.1" 200 13291
+[04/Jan/2024 20:16:20] "GET /harvard-university-projects/ HTTP/1.1" 200 13291
+[04/Jan/2024 21:24:24] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 02:54:16] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[05/Jan/2024 02:54:59] "GET /favicon.ico HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+Bad Request: /http:/api.ipify.org/
+[05/Jan/2024 02:55:20] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 61687
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+Bad Request: /www.shadowserver.org:443
+[05/Jan/2024 02:55:42] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 61891
+Invalid HTTP_HOST header: 'eg.bdtunnelproxy.xyz'. You may need to add 'eg.bdtunnelproxy.xyz' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'eg.bdtunnelproxy.xyz'. You may need to add 'eg.bdtunnelproxy.xyz' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[05/Jan/2024 04:08:22] "GET / HTTP/1.1" 400 61569
+[05/Jan/2024 06:25:53] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 06:25:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /c/
+Not Found: /c/
+[05/Jan/2024 07:09:16] "GET /c/ HTTP/1.1" 404 3153
+[05/Jan/2024 07:49:53] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03òxOP¡ÂClí\x07Ã¡£ï·[Ô\x1bl')
+[05/Jan/2024 07:49:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 07:50:28] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 07:50:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[05/Jan/2024 07:50:47] "GET /favicon.ico HTTP/1.1" 404 4157
+[05/Jan/2024 07:51:07] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03OFjt')
+[05/Jan/2024 07:51:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /manage/account/login
+Not Found: /manage/account/login
+[05/Jan/2024 07:51:26] "GET /manage/account/login HTTP/1.1" 404 4184
+[05/Jan/2024 07:51:49] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 07:51:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 07:52:08] "GET /admin/index.html HTTP/1.1" 302 0
+[05/Jan/2024 07:52:31] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 07:52:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /index.html
+Not Found: /index.html
+[05/Jan/2024 07:52:50] "GET /index.html HTTP/1.1" 404 4154
+[05/Jan/2024 07:53:15] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03·iL\x01%Z32IÇ\x11\x15U\x95ì\x04R1?QÄm:\x9c&Éá±®k*Ô\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[05/Jan/2024 07:53:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /+CSCOE+/logon.html
+Not Found: /+CSCOE+/logon.html
+[05/Jan/2024 07:53:34] "GET /+CSCOE+/logon.html HTTP/1.1" 404 4178
+[05/Jan/2024 07:53:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x031\x86òWØD\x9e±ªÉ¥uã\x88KIJ_\x88Û\x14å=É^\x97¦\\ø^¢Ä\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[05/Jan/2024 07:53:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /cgi-bin/login.cgi
+Not Found: /cgi-bin/login.cgi
+[05/Jan/2024 07:54:17] "GET /cgi-bin/login.cgi HTTP/1.1" 404 4175
+[05/Jan/2024 07:54:42] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 07:54:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /logon.htm
+Not Found: /logon.htm
+[05/Jan/2024 07:55:02] "GET /logon.htm HTTP/1.1" 404 4151
+[05/Jan/2024 07:55:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03\x83ÇÃ¶/bñåL!F\x1a&n*\x8d\x96\xadù\x99ÒâF\x08ÇÄÚÙ\x8f\x196è\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[05/Jan/2024 07:55:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /login.jsp
+Not Found: /login.jsp
+[05/Jan/2024 07:55:45] "GET /login.jsp HTTP/1.1" 404 4151
+[05/Jan/2024 07:56:08] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 07:56:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 07:56:28] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 08:57:34] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:13:05] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 09:13:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 09:35:21,506] - Broken pipe from ('45.33.87.154', 38219)
+
+[05/Jan/2024 09:35:21] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:35:22,035] - Broken pipe from ('45.33.87.154', 38220)
+
+[05/Jan/2024 09:35:39] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:52:37,122] - Broken pipe from ('198.74.56.46', 38753)
+
+[05/Jan/2024 09:52:37] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:52:37,618] - Broken pipe from ('198.74.56.46', 38754)
+
+[05/Jan/2024 09:52:51] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:56:29] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 09:56:32] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[05/Jan/2024 09:56:34] "GET /favicon.ico HTTP/1.1" 404 4157
+[05/Jan/2024 09:56:35] "GET /static/js/script.js HTTP/1.1" 200 7413
+[05/Jan/2024 09:56:37] "GET /static/js/main.js HTTP/1.1" 200 6124
+[05/Jan/2024 11:37:52] code 400, message Bad request version ('À\x14À')
+[05/Jan/2024 11:37:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 11:38:40,770] - Broken pipe from ('167.94.138.33', 51562)
+
+[05/Jan/2024 11:38:44] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 11:38:44,714] - Broken pipe from ('167.94.138.33', 59508)
+
+[05/Jan/2024 11:38:48] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 11:38:50] code 505, message Invalid HTTP version (2.0)
+[05/Jan/2024 11:38:50] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[05/Jan/2024 11:38:51] "GET /favicon.ico HTTP/1.1" 404 4157
+[05/Jan/2024 13:18:09] "GET / HTTP/1.1" 200 14997
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[05/Jan/2024 14:21:14] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[05/Jan/2024 15:29:07] code 400, message Bad request syntax ('\x01\x01æ')
+[05/Jan/2024 15:29:07] "æ" 400 -
+[05/Jan/2024 16:05:15] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03øè\x8d6ý')
+[05/Jan/2024 16:05:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 16:05:27] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[05/Jan/2024 16:05:51] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[05/Jan/2024 16:05:53] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[05/Jan/2024 16:05:56] "GET /sitemap.xml HTTP/1.1" 404 4157
+[05/Jan/2024 17:21:26] code 400, message Bad request syntax ('MGLNDD_172.105.190.111_8000')
+[05/Jan/2024 17:21:26] "MGLNDD_172.105.190.111_8000" 400 -
+[05/Jan/2024 17:36:31] "GET /aaa9 HTTP/1.1" 301 0
+[05/Jan/2024 17:36:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03;\x92¿$\x04j\xad\x15Ñó²ªL=MO\x16)\x99\x92#Ò\x8b\x9aWã_¦{`\x03\x97\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Jan/2024 17:36:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 17:36:32] "GET /aab8 HTTP/1.1" 301 0
+[05/Jan/2024 17:36:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Ñ\xadëF\x87Ôö®hð\x82y3\x830\x893\x01z\xadæKß·lðE9Aòç²\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Jan/2024 17:36:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[05/Jan/2024 17:36:33] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 20:50:25] "GET / HTTP/1.1" 200 14997
+[05/Jan/2024 21:25:44] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/Jan/2024 21:25:44] "    c                           " 400 -
+[05/Jan/2024 21:25:49] code 400, message Bad request syntax ('\xa0\x00\x00`\x00\x00\x00\x00admin\x00\x00\x00admin\x00\x00\x00\x04\x01\x00\x00\x00\x00¡ª')
+[05/Jan/2024 21:25:49] "   `    admin   admin       ¡ª" 400 -
+[06/Jan/2024 00:31:03] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 00:39:14] code 400, message Bad request version ('F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[06/Jan/2024 00:39:14] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[06/Jan/2024 02:13:53] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 02:13:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 02:54:45] "GET /harvard-university-projects/ HTTP/1.1" 200 13291
+[06/Jan/2024 02:54:45] "GET /static/js/script.js HTTP/1.1" 304 0
+[06/Jan/2024 02:54:45] "GET /static/css/style.css HTTP/1.1" 200 4360
+[06/Jan/2024 02:54:45] "GET /static/js/main.js HTTP/1.1" 304 0
+[06/Jan/2024 02:54:45] "GET /media/projects/images/Etintech-logos.jpeg HTTP/1.1" 200 232104
+[06/Jan/2024 02:54:45] "GET /static/img/no_image.png HTTP/1.1" 200 6477
+[06/Jan/2024 02:54:45] "GET /media/projects/images/Etintech-logos_5jwTJJz.jpeg HTTP/1.1" 200 232104
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 02:54:45] "GET /favicon.ico HTTP/1.1" 404 4157
+[06/Jan/2024 02:54:49] "GET /old-projects/ HTTP/1.1" 200 11815
+[06/Jan/2024 02:54:49] "GET /media/projects/images/Etintech-logos_xMscHlj.jpeg HTTP/1.1" 200 232104
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 02:54:49] "GET /favicon.ico HTTP/1.1" 404 4157
+[06/Jan/2024 02:54:51] "GET /portfolio HTTP/1.1" 200 14787
+[06/Jan/2024 02:54:51] "GET /media/projects/images/Etintech-logos_R4SW0jg.jpeg HTTP/1.1" 304 0
+[06/Jan/2024 02:54:54] "GET /portfolio HTTP/1.1" 200 14787
+[06/Jan/2024 02:54:56] "GET /udemy-projects/ HTTP/1.1" 200 11798
+[06/Jan/2024 02:54:57] "GET /old-projects/ HTTP/1.1" 200 11815
+[06/Jan/2024 02:54:58] "GET /harvard-university-projects/ HTTP/1.1" 200 13291
+[06/Jan/2024 02:55:00] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 02:55:01] "GET /media/projects/images/certiv_wvq7Teq.jpg HTTP/1.1" 304 0
+[06/Jan/2024 02:55:01] "GET /media/projects/images/UC-d2414ecf-948d-4043-abea-d7afa329a54f_F9VIsJr.jpg HTTP/1.1" 304 0
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:17] "GET / HTTP/1.0" 400 61002
+[06/Jan/2024 07:40:22] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[06/Jan/2024 07:40:22] "l          " 400 -
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /nice ports,/Trinity.txt.bak
+Bad Request: /nice ports,/Trinity.txt.bak
+[06/Jan/2024 07:40:22] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 400 61311
+[06/Jan/2024 07:40:22] code 400, message Bad request syntax ('\x05\x04\x00\x01\x02\x80\x05\x01\x00\x03')
+[06/Jan/2024 07:40:22] "  " 400 -
+[06/Jan/2024 07:40:27] code 400, message Bad request syntax ('\x04\x01\x00\x16\x7f\x00\x00\x01root\x00')
+[06/Jan/2024 07:40:27] "   root " 400 -
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:27] "OPTIONS / HTTP/1.0" 400 61030
+[06/Jan/2024 07:40:27] code 400, message Bad request version ('RTSP/1.0')
+[06/Jan/2024 07:40:27] "OPTIONS / RTSP/1.0" 400 -
+[06/Jan/2024 07:40:32] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[06/Jan/2024 07:40:32] "  (rþ          |                    " 400 -
+[06/Jan/2024 07:40:37] code 400, message Bad HTTP/0.9 request type ('\x00')
+[06/Jan/2024 07:40:37] "          versionbind   " 400 -
+[06/Jan/2024 07:40:37] code 400, message Bad request syntax ('HELP')
+[06/Jan/2024 07:40:37] "HELP" 400 -
+[06/Jan/2024 07:40:37] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[06/Jan/2024 07:40:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 07:40:37] code 400, message Bad request version ('\x00/\x00')
+[06/Jan/2024 07:40:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 07:40:37] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[06/Jan/2024 07:40:37] "   qjn0k¡¢" 400 -
+[06/Jan/2024 07:40:42] code 400, message Bad request version ('0.12\x00')
+[06/Jan/2024 07:40:42] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[06/Jan/2024 07:40:42] code 400, message Bad request version ('SIP/2.0')
+[06/Jan/2024 07:40:42] "OPTIONS sip:nm SIP/2.0" 400 -
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+[06/Jan/2024 07:40:42] code 400, message Bad request version ('\x00/\x00')
+[06/Jan/2024 07:40:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /H6mq
+Bad Request: /H6mq
+[06/Jan/2024 07:40:42] "GET /H6mq HTTP/1.1" 400 61495
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /sdk
+Bad Request: /sdk
+[06/Jan/2024 07:40:42] "POST /sdk HTTP/1.1" 400 61494
+Bad Request: /
+Bad Request: /
+Bad Request: /CSS/Miniweb.css
+Bad Request: /CSS/Miniweb.css
+[06/Jan/2024 07:40:42] "GET /CSS/Miniweb.css HTTP/1.1" 400 61616
+Bad Request: /server-status
+Bad Request: /server-status
+[06/Jan/2024 07:40:42] "GET /server-status HTTP/1.1" 400 61594
+[06/Jan/2024 07:40:42] "GET / HTTP/1.1" 400 61451
+Invalid HTTP_HOST header: 'www.google.com'. You may need to add 'www.google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.google.com'. You may need to add 'www.google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /Portal0000.htm
+Bad Request: /Portal0000.htm
+Bad Request: /Portal/Portal.mwsl
+Bad Request: /Portal/Portal.mwsl
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:42] "GET /Portal0000.htm HTTP/1.1" 400 61605
+Bad Request: /home.cfm
+Bad Request: /home.cfm
+[06/Jan/2024 07:40:42] "GET / HTTP/1.1" 400 61451
+[06/Jan/2024 07:40:42] "GET /Portal/Portal.mwsl HTTP/1.1" 400 61649
+Bad Request: /.git/HEAD
+Bad Request: /.git/HEAD
+Bad Request: /nmaplowercheck1704526842
+Bad Request: /nmaplowercheck1704526842
+Bad Request: /http:/www.google.com
+Bad Request: /http:/www.google.com
+[06/Jan/2024 07:40:42] "GET /home.cfm HTTP/1.1" 400 61539
+[06/Jan/2024 07:40:42] "GET /.git/HEAD HTTP/1.1" 400 61550
+[06/Jan/2024 07:40:42] "GET /nmaplowercheck1704526842 HTTP/1.1" 400 61715
+[06/Jan/2024 07:40:42] "GET http://www.google.com HTTP/1.0" 400 60933
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:42] "GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 400 62057
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.google.com'. You may need to add 'www.google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.google.com'. You may need to add 'www.google.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.google.com
+Bad Request: /http:/www.google.com
+Bad Request: /favicon.ico
+Bad Request: /favicon.ico
+[06/Jan/2024 07:40:42] "HEAD http://www.google.com HTTP/1.0" 400 60940
+[06/Jan/2024 07:40:42] "GET /favicon.ico HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:43] "GET / HTTP/1.1" 400 61451
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /robots.txt
+Bad Request: /robots.txt
+[06/Jan/2024 07:40:43] "GET /robots.txt HTTP/1.1" 400 61561
+Bad Request: /HNAP1
+Bad Request: /HNAP1
+Bad Request: /docs/cplugError.html/
+Bad Request: /docs/cplugError.html/
+Bad Request: /__Additional
+Bad Request: /__Additional
+Bad Request: /www.google.com:80
+Bad Request: /www.google.com:80
+[06/Jan/2024 07:40:43] "GET /docs/cplugError.html/ HTTP/1.1" 400 61682
+[06/Jan/2024 07:40:43] "GET /__Additional HTTP/1.1" 400 61583
+[06/Jan/2024 07:40:43] "CONNECT www.google.com:80 HTTP/1.0" 400 61212
+[06/Jan/2024 07:40:43] "GET /HNAP1 HTTP/1.1" 400 61506
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:43] "GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 HTTP/1.1" 400 62057
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.jhtml
+Bad Request: /admin.jhtml
+[06/Jan/2024 07:40:43] "GET /admin.jhtml HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /indice.cgi
+Bad Request: /indice.cgi
+[06/Jan/2024 07:40:44] "GET /indice.cgi HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /home.php
+Bad Request: /home.php
+[06/Jan/2024 07:40:44] "GET /home.php HTTP/1.1" 400 61539
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /readme.txt
+Bad Request: /readme.txt
+[06/Jan/2024 07:40:44] "GET /readme.txt HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /main.asp
+Bad Request: /main.asp
+[06/Jan/2024 07:40:44] "GET /main.asp HTTP/1.1" 400 61539
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /menu.aspx
+Bad Request: /menu.aspx
+[06/Jan/2024 07:40:45] "GET /menu.aspx HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /main.php
+Bad Request: /main.php
+[06/Jan/2024 07:40:45] "GET /main.php HTTP/1.1" 400 61539
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /localstart.jsa
+Bad Request: /localstart.jsa
+[06/Jan/2024 07:40:45] "GET /localstart.jsa HTTP/1.1" 400 61605
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.shtml
+Bad Request: /admin.shtml
+[06/Jan/2024 07:40:46] "GET /admin.shtml HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /start.cfm
+Bad Request: /start.cfm
+[06/Jan/2024 07:40:46] "GET /start.cfm HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /localstart.jhtml
+Bad Request: /localstart.jhtml
+[06/Jan/2024 07:40:47] "GET /localstart.jhtml HTTP/1.1" 400 61627
+Invalid HTTP_HOST header: 'www'. You may need to add 'www' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www'. You may need to add 'www' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+Bad Request: /inicio.cfm
+[06/Jan/2024 07:40:47] "GET / HTTP/1.1" 400 61025
+Bad Request: /inicio.cfm
+[06/Jan/2024 07:40:47] "GET /inicio.cfm HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /inicio.jsa
+Bad Request: /inicio.jsa
+[06/Jan/2024 07:40:47] "GET /inicio.jsa HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /index.jhtml
+Bad Request: /index.jhtml
+[06/Jan/2024 07:40:48] "GET /index.jhtml HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /start.cgi
+Bad Request: /start.cgi
+[06/Jan/2024 07:40:48] "GET /start.cgi HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /home.pl
+Bad Request: /home.pl
+[06/Jan/2024 07:40:48] "GET /home.pl HTTP/1.1" 400 61528
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /default.jsa
+Bad Request: /default.jsa
+[06/Jan/2024 07:40:49] "GET /default.jsa HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /inicio.php
+Bad Request: /inicio.php
+[06/Jan/2024 07:40:49] "GET /inicio.php HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /start.html
+Bad Request: /start.html
+[06/Jan/2024 07:40:49] "GET /start.html HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.pl
+Bad Request: /admin.pl
+[06/Jan/2024 07:40:50] "GET /admin.pl HTTP/1.1" 400 61539
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.php
+Bad Request: /admin.php
+[06/Jan/2024 07:40:50] "GET /admin.php HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /menu.shtml
+Bad Request: /menu.shtml
+[06/Jan/2024 07:40:51] "GET /menu.shtml HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.jsp
+Bad Request: /admin.jsp
+[06/Jan/2024 07:40:51] "GET /admin.jsp HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /start.php
+Bad Request: /start.php
+[06/Jan/2024 07:40:51] "GET /start.php HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.asp
+Bad Request: /admin.asp
+[06/Jan/2024 07:40:52] "GET /admin.asp HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+[06/Jan/2024 07:40:52] code 400, message Bad request version ("¹>\x00\x9c\x13\x02\x13\x03\x13\x01\x003\x009\x005\x00/À,À0\x00£\x00\x9fÌ©Ì¨ÌªÀ¯À\xadÀ£À\x9fÀ]ÀaÀWÀSÀ+À/\x00¢\x00\x9eÀ®À¬À¢À\x9eÀ\\À`ÀVÀRÀ$À(\x00k\x00jÀsÀw\x00Ä\x00ÃÀ#À'\x00g\x00@ÀrÀv\x00¾\x00½À")
+[06/Jan/2024 07:40:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Bad Request: /indice.shtml
+Bad Request: /indice.shtml
+[06/Jan/2024 07:40:52] "GET /indice.shtml HTTP/1.1" 400 61583
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.jsa
+Bad Request: /admin.jsa
+[06/Jan/2024 07:40:53] "GET /admin.jsa HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /admin.html
+Bad Request: /admin.html
+[06/Jan/2024 07:40:53] "GET /admin.html HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /index.jsp
+Bad Request: /index.jsp
+[06/Jan/2024 07:40:53] "GET /index.jsp HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /index.shtml
+Bad Request: /index.shtml
+[06/Jan/2024 07:40:54] "GET /index.shtml HTTP/1.1" 400 61572
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /indice.asp
+Bad Request: /indice.asp
+[06/Jan/2024 07:40:54] "GET /indice.asp HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /menu.html
+Bad Request: /menu.html
+[06/Jan/2024 07:40:54] "GET /menu.html HTTP/1.1" 400 61550
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /localstart.pl
+Bad Request: /localstart.pl
+[06/Jan/2024 07:40:55] "GET /localstart.pl HTTP/1.1" 400 61594
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /indice.cfm
+Bad Request: /indice.cfm
+[06/Jan/2024 07:40:55] "GET /indice.cfm HTTP/1.1" 400 61561
+[06/Jan/2024 07:40:55] code 400, message Bad request syntax ('\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001')
+[06/Jan/2024 07:40:55] "               bbbb0100000001" 400 -
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /home.jhtml
+Bad Request: /home.jhtml
+[06/Jan/2024 07:40:55] "GET /home.jhtml HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /inicio.cgi
+Bad Request: /inicio.cgi
+[06/Jan/2024 07:40:55] "GET /inicio.cgi HTTP/1.1" 400 61561
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com:8000'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /localstart.cfm
+Bad Request: /localstart.cfm
+[06/Jan/2024 07:40:56] "GET /localstart.cfm HTTP/1.1" 400 61605
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '172-105-190-111.ip.linodeusercontent.com'. You may need to add '172-105-190-111.ip.linodeusercontent.com' to ALLOWED_HOSTS.
+Bad Request: /
+Bad Request: /
+[06/Jan/2024 07:40:56] "GET / HTTP/1.1" 400 61103
+[06/Jan/2024 08:33:33] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 08:49:47] "GET / HTTP/1.1" 200 14997
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[06/Jan/2024 09:28:13] "CONNECT google.com:443 HTTP/1.1" 400 61037
+[06/Jan/2024 09:56:34] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 09:56:49] "GET /admin/ HTTP/1.1" 302 0
+[06/Jan/2024 09:56:50] "GET / HTTP/1.1" 200 14997
+Not Found: /api/session/properties
+Not Found: /api/session/properties
+[06/Jan/2024 09:56:51] "GET /api/session/properties HTTP/1.1" 404 5243
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[06/Jan/2024 10:29:31] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[06/Jan/2024 10:51:36] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¹Ý\x16\x9d¹Ü²ÖhF©\x08\x04§>ÙIøÞ#h\x7f±\x17KÜCÖÓ¥tÔ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Jan/2024 10:51:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 10:52:01] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:52:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 10:52:18] "GET /favicon.ico HTTP/1.1" 404 4157
+[06/Jan/2024 10:52:38] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03X\x8d/RN\x00ÔÌH³á¨ûÎ\x10\x05\x9e³_3Ì.ªø\x05Ua\x15@?\x16¤\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[06/Jan/2024 10:52:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /manage/account/login
+Not Found: /manage/account/login
+[06/Jan/2024 10:52:55] "GET /manage/account/login HTTP/1.1" 404 4184
+[06/Jan/2024 10:53:18] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:53:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 10:53:35] "GET /admin/index.html HTTP/1.1" 302 0
+[06/Jan/2024 10:53:58] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03ýq\x9c2\x95ÛÎ\x98°\x97¾\x80\x0f·?Ï6]\x08H:ã\x7f3\x7f\x88\x10©1ø8]\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[06/Jan/2024 10:53:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /index.html
+Not Found: /index.html
+[06/Jan/2024 10:54:15] "GET /index.html HTTP/1.1" 404 4154
+[06/Jan/2024 10:54:42] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00±\x01\x00\x00\xad\x03\x03d\x95\x83Ø\x06iI.ìûµê\x04ú\x1aJdÌ\x9eãã\x07¶@\x19éúãT\x96\x8ew\x00\x00PÀ/À+À\x11À\x07À\x13À')
+[06/Jan/2024 10:54:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /+CSCOE+/logon.html
+Not Found: /+CSCOE+/logon.html
+[06/Jan/2024 10:55:00] "GET /+CSCOE+/logon.html HTTP/1.1" 404 4178
+[06/Jan/2024 10:55:24] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:55:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /cgi-bin/login.cgi
+Not Found: /cgi-bin/login.cgi
+[06/Jan/2024 10:55:42] "GET /cgi-bin/login.cgi HTTP/1.1" 404 4175
+[06/Jan/2024 10:56:08] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:56:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /logon.htm
+Not Found: /logon.htm
+[06/Jan/2024 10:56:29] "GET /logon.htm HTTP/1.1" 404 4151
+[06/Jan/2024 10:56:57] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:56:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Not Found: /login.jsp
+Not Found: /login.jsp
+[06/Jan/2024 10:57:17] "GET /login.jsp HTTP/1.1" 404 4151
+[06/Jan/2024 10:57:41] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 10:57:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 10:58:01] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:09:58,856] - Broken pipe from ('45.79.163.53', 33862)
+
+[06/Jan/2024 11:09:59] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:09:59,591] - Broken pipe from ('45.79.163.53', 33863)
+
+[06/Jan/2024 11:10:17] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:21:48,499] - Broken pipe from ('162.142.125.10', 51426)
+
+[06/Jan/2024 11:21:51] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:21:51,919] - Broken pipe from ('162.142.125.10', 51236)
+
+[06/Jan/2024 11:21:55] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:21:55] code 505, message Invalid HTTP version (2.0)
+[06/Jan/2024 11:21:55] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 11:21:58] "GET /favicon.ico HTTP/1.1" 404 4157
+[06/Jan/2024 11:56:16,456] - Broken pipe from ('172.104.210.105', 40924)
+
+[06/Jan/2024 11:56:16] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 11:56:16,967] - Broken pipe from ('172.104.210.105', 40925)
+
+[06/Jan/2024 11:56:34] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 12:47:58] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[06/Jan/2024 12:47:58] "    c                           " 400 -
+[06/Jan/2024 13:09:55] "GET / HTTP/1.1" 200 14997
+[06/Jan/2024 13:09:55,904] - Broken pipe from ('64.62.197.145', 64003)
+
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 13:10:10] "GET /favicon.ico HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+Bad Request: /http:/api.ipify.org/
+[06/Jan/2024 13:10:15] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 61689
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+Bad Request: /www.shadowserver.org:443
+[06/Jan/2024 13:10:18] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 61892
+[06/Jan/2024 14:05:15] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[06/Jan/2024 14:05:15] "  /*à     Cookie: mstshash=Administr" 400 -
+[06/Jan/2024 15:02:33] code 400, message Bad request version ('Êy\x89\x91¦T\x9c')
+[06/Jan/2024 15:02:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 15:02:49] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[06/Jan/2024 15:03:13] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[06/Jan/2024 15:03:15] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[06/Jan/2024 15:03:17] "GET /sitemap.xml HTTP/1.1" 404 4157
+[06/Jan/2024 15:33:10] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 15:33:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[06/Jan/2024 16:30:18] "CONNECT google.com:443 HTTP/1.1" 400 61037
+[06/Jan/2024 16:51:29] code 400, message Bad request version ('À\x13À')
+[06/Jan/2024 16:51:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 16:51:29] code 400, message Bad request version ('À(À$À\x14À')
+[06/Jan/2024 16:51:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[06/Jan/2024 22:44:55] code 400, message Bad request version ('À\x14À')
+[06/Jan/2024 22:44:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 00:37:42] code 400, message Bad request syntax ('MGLNDD_172.105.190.111_8000')
+[07/Jan/2024 00:37:42] "MGLNDD_172.105.190.111_8000" 400 -
+[07/Jan/2024 01:08:52] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 01:38:41] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 01:38:41,348] - Broken pipe from ('64.62.197.162', 35089)
+
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[07/Jan/2024 01:38:55] "GET /favicon.ico HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+Bad Request: /http:/api.ipify.org/
+[07/Jan/2024 01:38:58] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 61689
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+Bad Request: /www.shadowserver.org:443
+[07/Jan/2024 01:39:04] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 61892
+[07/Jan/2024 02:22:27] "GET / HTTP/1.1" 200 14997
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[07/Jan/2024 02:49:28] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[07/Jan/2024 05:09:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 05:09:54] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 05:58:06] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 05:58:06] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 06:47:14] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 06:47:14] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 09:13:59] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 09:54:35] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 09:54:35] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 10:20:24] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 10:20:24] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 10:28:57] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 10:28:57] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 11:05:35,744] - Broken pipe from ('45.79.163.53', 37735)
+
+[07/Jan/2024 11:05:35] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:05:36,211] - Broken pipe from ('45.79.163.53', 37736)
+
+[07/Jan/2024 11:05:55] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:08:53] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 11:08:53] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 11:51:20,956] - Broken pipe from ('45.33.87.154', 53127)
+
+[07/Jan/2024 11:51:21] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:51:22,568] - Broken pipe from ('45.33.87.154', 53128)
+
+[07/Jan/2024 11:51:43] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:55:43,247] - Broken pipe from ('45.79.163.53', 38683)
+
+[07/Jan/2024 11:55:43] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:55:43,780] - Broken pipe from ('45.79.163.53', 38684)
+
+[07/Jan/2024 11:55:53] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 11:56:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 11:56:39] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 11:57:54] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[07/Jan/2024 11:57:54] "  /*à     Cookie: mstshash=Administr" 400 -
+[07/Jan/2024 13:33:51] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+[07/Jan/2024 13:33:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 13:34:02] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[07/Jan/2024 13:34:24] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[07/Jan/2024 13:34:26] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[07/Jan/2024 13:34:28] "GET /sitemap.xml HTTP/1.1" 404 4157
+[07/Jan/2024 13:34:29] "GET /static/js/script.js HTTP/1.1" 200 7413
+[07/Jan/2024 13:34:29] "GET /static/js/main.js HTTP/1.1" 200 6124
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[07/Jan/2024 13:35:12] "CONNECT google.com:443 HTTP/1.1" 400 61037
+[07/Jan/2024 15:08:18] code 400, message Bad request version ('À\x14À')
+[07/Jan/2024 15:08:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 15:48:45] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+[07/Jan/2024 15:48:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 15:48:58] "GET / HTTP/1.1" 200 14997
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[07/Jan/2024 15:49:21] "GET /favicon.ico HTTP/1.1" 404 4157
+Not Found: /robots.txt
+Not Found: /robots.txt
+[07/Jan/2024 15:49:23] "GET /robots.txt HTTP/1.1" 404 4154
+Not Found: /sitemap.xml
+Not Found: /sitemap.xml
+[07/Jan/2024 15:49:24] "GET /sitemap.xml HTTP/1.1" 404 4157
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'google.com:443'. You may need to add 'google.com' to ALLOWED_HOSTS.
+Bad Request: /google.com:443
+Bad Request: /google.com:443
+[07/Jan/2024 21:42:19] "CONNECT google.com:443 HTTP/1.1" 400 61034
+[07/Jan/2024 21:55:11,950] - Broken pipe from ('167.94.138.33', 39046)
+
+[07/Jan/2024 21:55:16] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 21:55:16,919] - Broken pipe from ('167.94.138.33', 50362)
+
+[07/Jan/2024 21:55:20] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 21:55:20] code 505, message Invalid HTTP version (2.0)
+[07/Jan/2024 21:55:20] "PRI * HTTP/2.0" 505 -
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+[07/Jan/2024 21:55:21] "GET /favicon.ico HTTP/1.1" 404 4157
+[07/Jan/2024 22:12:55] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 22:32:48] code 400, message Bad request version ('L\x8aå\x01z=MÑk_ûæq>\x10¼ïÌ_:a\x16\x91\x97·ÿY-\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[07/Jan/2024 22:32:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:32:48] code 400, message Bad request version ('\x9f\x03!\x97À\x87~p\x8d!dµ\x98h\x18·\x8b¨³[\x8d¾,ô\x87\x1b+\x02UK\x7f%\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[07/Jan/2024 22:32:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:33:05] code 400, message Bad request version ('À\x14À')
+[07/Jan/2024 22:33:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:33:05] code 400, message Bad request version ('À\x14À')
+[07/Jan/2024 22:33:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:33:05] "GET / HTTP/1.1" 200 14997
+[07/Jan/2024 22:33:05] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x12ð'&ÙuF\x91\x92Ã\x1bÁ\x13\x94Í\x0f\x92Ûpe|'\x12¥U\x81µÿL\x14%\x84\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[07/Jan/2024 22:33:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:44:28] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02z\x01\x00\x02v\x03\x03Êæ)¾fÄÀ1\x9c\x82\x99^Â[þ\x0fn#.\x10\x8dù'9\x9cß\x10¾âîÀê")
+[07/Jan/2024 22:44:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[07/Jan/2024 22:44:29] code 400, message Bad request version ('ç\x8a«9\x0fë%E\x94Cv6\x7fh\x18*\x9eÎ^\x9a\x83[\x04Løw°SíWî\x87\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[07/Jan/2024 22:44:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+/var/www/DjangoApp/myport/forms.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 03, 2024 - 01:54:53
+Django version 3.2.23, using settings 'myportfolio.settings'
+Starting development server at http://172.105.190.111:8000/
+Quit the server with CONTROL-C.
+Traceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    main()
+  File "manage.py", line 18, in main
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python3.7/dist-packages/django/core/management/__init__.py", line 419, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python3.7/dist-packages/django/core/management/__init__.py", line 363, in execute
+    settings.INSTALLED_APPS
+  File "/usr/local/lib/python3.7/dist-packages/django/conf/__init__.py", line 82, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python3.7/dist-packages/django/conf/__init__.py", line 69, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/usr/local/lib/python3.7/dist-packages/django/conf/__init__.py", line 170, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/usr/lib/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/DjangoApp/myportfolio/settings.py", line 14
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax

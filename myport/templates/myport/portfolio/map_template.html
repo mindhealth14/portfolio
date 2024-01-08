@@ -1,0 +1,24 @@
+<!-- Include the Google Maps API script -->
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+
+<!-- Add the div for the map -->
+<div id="map" style="height: 400px; width: 100%;"></div>
+
+<!-- JavaScript code -->
+<script>
+    function initMap() {
+        const location = { lat: -19.27829600021189, lng: 146.81108351278175 };
+        const map = new google.maps.Map(document.getElementById("map"), {
+            center: location,
+            zoom: 15,
+        });
+        const marker = new google.maps.Marker({
+            position: location,
+            map: map,
+            title: "Townsville, Qld, Australia",
+        });
+    }
+
+    // Call the function to initialize the map when the page loads
+    window.onload = initMap;
+</script>

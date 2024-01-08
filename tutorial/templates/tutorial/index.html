@@ -1,0 +1,89 @@
+{% extends 'tutorial/layout.html' %}
+{% load static %}
+
+
+{% block title %}
+    Courses Tutorials
+{% endblock title %}
+    
+
+
+{% block content %}
+<div class="row section_1">
+    
+    <h1>Youtube Tutorials</h1>
+
+    <div class="col-md-2 mt-5">
+        <h3>Categories</h3>
+          <ul>
+          
+              <li {% if not categories %}class="selected"{% endif %}>
+                 <a href="{% url 'tutorial:courses' %}">All</a>
+              </li>
+
+          
+              {% for c in categories %}
+               <li {% if category.slug == c.slug %}class="selected"{% endif %}>
+                   <a href="{{ c.get_absolute_url }}"> {{ c.name }}</a>
+               </li>
+              
+              {% endfor %}     
+          </ul>
+  </div>
+
+  <div class="col-md-10 mt-5 "> 
+    <div class="row">
+      <div class="cate-box">
+        <h2>{% if category %}  {{ category.name }} {% else %}Peter Omoruyi Portfolio {% endif %}</h2>
+
+      </div>
+    </div>
+
+   <div class="row row-cols-2 row-cols-md-3 g-2 g-md-3 card-box mt-5">
+    
+
+          {% for course in courses %}
+      <div class="col ">
+       
+          <div class="card p-3">
+            <a class="img-control" href="{{ course.get_absolute_url }}">
+                
+                {% if course.embed_code %}
+
+                {{ course.embed_code | safe  }}
+
+                {% else %}
+                <p>No video found </p>
+                    
+                {% endif %}
+
+            </a>   
+              <div class="card-body">
+              <h5 class="card-title"><a href="{{ course.get_absolute_url }}">
+                
+                {% with words=course.title|wordcount %}
+                {{ course.title|truncatewords:10 }}
+                {% endwith %}
+               
+            </a></h5>
+              <p class="card-text text-center"> <a href="{{ course.get_absolute_url }}" target="_blank" class="btn btn-color">Watch Video</a> </p>
+             
+            </div>
+           </div>
+        </div>
+    
+          {% endfor %}
+   </div>
+
+   <div class="text-center my-5"> <button class="btn btn-color" id="load-more-btn">Load More</button> </div>
+</div>
+
+
+
+
+</div>
+    
+    
+        
+{% endblock content %}
+    
